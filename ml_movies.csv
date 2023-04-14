@@ -1,0 +1,751 @@
+﻿,Series_Title,Released_Year,Runtime,Genre,Genre2,Genre3,a,Meta_score,Director,No_of_Votes,Gross,Year_x,Annual Average CPI(-U)_x,Year_y,Annual Average CPI(-U)_y,Inflation-Adjusted Gross,Famous Director,Famous Director Ind,Action Ind,Sci-Fi Ind,Thriller Ind,Musical Ind,Biography Ind,Crime Ind,Sport Ind,Western Ind,Comedy Ind,Family Ind,Romance Ind,Drama Ind,Animation Ind,War Ind
+2,Avatar,2009,162,Action, Adventure, Fantasy,7.8,83,James Cameron,1118998,760507625,1927,17.4,2009,2.145,354549009.3,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,Titanic,1997,194,Drama, Romance,,7.8,75,James Cameron,1046089,659325379,1929,17.2,1997,1.605,410794628.7,TRUE,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+7,The Dark Knight,2008,152,Action, Crime, Drama,9,84,Christopher Nolan,2303232,534858444,1932,13.6,2008,2.153,248424730.1,TRUE,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+9,The Dark Knight Rises,2012,164,Action, Adventure,,8.4,78,Christopher Nolan,1516346,448139099,1934,13.4,2012,2.296,195182534.4,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,E.T. the Extra-Terrestrial,1982,115,Family, Sci-Fi,,7.8,91,Steven Spielberg,372490,435110554,1935,13.7,1982,0.965,450891765.8,TRUE,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+15,Jurassic Park,1993,127,Action, Adventure, Sci-Fi,8.1,68,Steven Spielberg,867615,402453882,1940,14,1993,1.445,278514797.2,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+19,The Lord of the Rings: The Return of the King,2003,201,Action, Adventure, Drama,8.9,94,Peter Jackson,1642758,377845905,1944,17.6,2003,1.84,205351035.3,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+22,The Lord of the Rings: The Two Towers,2002,179,Action, Adventure, Drama,8.7,87,Peter Jackson,1485555,342551365,1947,22.3,2002,1.799,190412098.4,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+26,Forrest Gump,1994,142,Drama, Romance,,8.8,82,Robert Zemeckis,1809221,330252182,1951,26,1994,1.482,222842228.1,TRUE,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+31,The Lord of the Rings: The Fellowship of the Ring,2001,178,Action, Adventure, Drama,8.8,92,Peter Jackson,1661481,315544750,1956,27.2,2001,1.771,178173207.2,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+36,The Hobbit: An Unexpected Journey,2012,169,Adventure, Fantasy,,7.8,58,Peter Jackson,757377,303003568,1961,29.9,2012,2.296,131970195.1,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+41,Inception,2010,148,Action, Adventure, Sci-Fi,8.8,74,Christopher Nolan,2067042,292576195,1966,32.5,2010,2.181,134147728.1,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+47,Gravity,2013,91,Drama, Sci-Fi, Thriller,7.7,96,Alfonso CuarÃ³n,769145,274092705,1972,41.8,2013,2.33,117636354.1,TRUE,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+50,Jaws,1975,124,Adventure, Thriller,,8,87,Steven Spielberg,543388,260000000,1975,53.8,1975,0.538,483271375.5,TRUE,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+52,The Hobbit: The Desolation of Smaug,2013,161,Adventure, Fantasy,,7.8,66,Peter Jackson,601408,258366855,1977,60.6,2013,2.33,110887062.2,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+57,Harry Potter and the Prisoner of Azkaban,2004,142,Adventure, Family, Fantasy,7.9,82,Alfonso CuarÃ³n,552493,249358727,1982,96.5,2004,1.889,132005678.7,TRUE,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+59,Raiders of the Lost Ark,1981,115,Action, Adventure,,8.4,85,Steven Spielberg,884112,248159971,1984,103.9,1981,0.909,273003268.4,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Cast Away,2000,143,Adventure, Drama, Romance,7.8,73,Robert Zemeckis,524235,233632142,1988,118.3,2000,1.722,135674879.2,TRUE,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+66,The Martian,2015,144,Adventure, Drama, Sci-Fi,8,80,Ridley Scott,760094,228433663,1991,136.2,2015,2.37,96385511.81,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+75,Saving Private Ryan,1998,169,Drama, War,,8.6,91,Steven Spielberg,1235804,216540909,2000,172.2,1998,1.63,132847183.4,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+79,Back to the Future,1985,116,Adventure, Comedy, Sci-Fi,8.5,87,Robert Zemeckis,1058081,210609762,2004,188.9,1985,1.076,195733979.6,TRUE,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+83,Batman Begins,2005,140,Action, Adventure,,8.2,70,Christopher Nolan,1308302,206852432,2008,215.3,2005,1.953,105915223.8,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Terminator 2: Judgment Day,1991,137,Action, Sci-Fi,,8.5,75,James Cameron,995506,204843350,2010,218.1,1991,1.362,150398935.4,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+88,Indiana Jones and the Last Crusade,1989,127,Action, Adventure,,8.2,65,Steven Spielberg,692366,197171806,2013,233,1989,1.24,159009521,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,Dunkirk,2017,106,Action, Drama, History,7.8,94,Christopher Nolan,555092,188373161,2017,245.1,2017,2.451,76855634.84,TRUE,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+93,Interstellar,2014,169,Adventure, Drama, Sci-Fi,8.6,74,Christopher Nolan,1512360,188020017,2018,251.1,2014,2.367,79433889.73,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+94,Gladiator,2000,155,Action, Adventure, Drama,8.5,67,Ridley Scott,1341460,187705427,2019,255.7,2000,1.722,109004313,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+103,Apollo 13,1995,140,Adventure, Drama, History,7.6,77,Ron Howard,269197,173837933,,,1995,1.524,114066885.2,TRUE,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+106,A Beautiful Mind,2001,135,Biography, Drama,,8.2,72,Ron Howard,848920,170742341,,,2001,1.771,96410130.43,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+109,Gone Girl,2014,149,Drama, Mystery, Thriller,8.1,79,David Fincher,859695,167767189,,,2014,2.367,70877561.89,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+112,Catch Me If You Can,2002,141,Biography, Crime, Drama,8.1,75,Steven Spielberg,832846,164615351,,,2002,1.799,91503808.23,TRUE,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+115,Django Unchained,2012,165,Drama, Western,,8.4,81,Quentin Tarantino,1357682,162805434,,,2012,2.296,70908290.07,TRUE,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+119,Who Framed Roger Rabbit,1988,104,Animation, Adventure, Comedy,7.7,83,Robert Zemeckis,182009,156452370,,,1988,1.183,132250524.1,TRUE,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+123,Gran Torino,2008,116,Drama,,,8.1,72,Clint Eastwood,720450,148095302,,,2008,2.153,68785555.97,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+126,Once Upon a Time... in Hollywood,2019,161,Comedy, Drama,,7.6,83,Quentin Tarantino,551309,142502728,,,2019,2.557,55730437.23,TRUE,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+128,A Few Good Men,1992,138,Drama, Thriller,,7.7,62,Rob Reiner,235388,141340178,,,1992,1.403,100741395.6,TRUE,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+135,The Godfather,1972,175,Crime, Drama,,9.2,100,Francis Ford Coppola,1620367,134966411,,,1972,0.418,322886150.7,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+137,The Departed,2006,151,Crime, Drama, Thriller,8.5,85,Martin Scorsese,1189773,132384315,,,2006,2.016,65666822.92,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+139,Close Encounters of the Third Kind,1977,138,Drama, Sci-Fi,,7.6,90,Steven Spielberg,184966,132088635,,,1977,0.606,217968044.6,TRUE,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+140,Minority Report,2002,145,Action, Crime, Mystery,7.6,80,Steven Spielberg,508417,132072926,,,2002,1.799,73414633.69,TRUE,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+142,American Gangster,2007,157,Biography, Crime, Drama,7.8,76,Ridley Scott,392449,130164645,,,2007,2.073,62790470.33,TRUE,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+146,Shutter Island,2010,138,Mystery, Thriller,,8.2,63,Martin Scorsese,1129894,128012934,,,2010,2.181,58694605.23,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+147,The Curious Case of Benjamin Button,2008,166,Drama, Fantasy, Romance,7.8,70,David Fincher,589160,127509326,,,2008,2.153,59224025.08,TRUE,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+153,Inglourious Basterds,2009,153,Adventure, Drama, War,8.3,69,Quentin Tarantino,1267869,120540719,,,2009,2.145,56196139.39,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+157,Back to the Future Part II,1989,108,Adventure, Comedy, Sci-Fi,7.8,57,Robert Zemeckis,481918,118500000,,,1989,1.24,95564516.13,TRUE,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+160,The Wolf of Wall Street,2013,180,Biography, Crime, Drama,8.2,75,Martin Scorsese,1187498,116900694,,,2013,2.33,50171971.67,TRUE,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+168,Black Hawk Down,2001,144,Drama, History, War,7.7,74,Ridley Scott,364254,108638745,,,2001,1.771,61343164.88,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+170,Pulp Fiction,1994,154,Crime, Drama,,8.9,94,Quentin Tarantino,1826188,107928762,,,1994,1.482,72826425.1,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+178,The Girl with the Dragon Tattoo,2011,158,Crime, Drama, Mystery,7.8,71,David Fincher,423010,102515793,,,2011,2.249,45582833.7,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+181,Unforgiven,1992,130,Drama, Western,,8.2,85,Clint Eastwood,375935,101157447,,,1992,1.403,72100817.53,TRUE,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+182,Arrival,2016,116,Drama, Sci-Fi,,7.9,81,Denis Villeneuve,594181,100546139,,,2016,2.4,41894224.58,TRUE,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+183,Million Dollar Baby,2004,132,Drama, Sport,,8.1,86,Clint Eastwood,635975,100492203,,,2004,1.889,53198625.2,TRUE,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+185,Se7en,1995,127,Crime, Drama, Mystery,8.6,65,David Fincher,1445096,100125643,,,1995,1.524,65699240.81,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+187,The Color Purple,1985,154,Drama,,,7.8,78,Steven Spielberg,78321,98467863,,,1985,1.076,91512883.83,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+188,The Social Network,2010,120,Biography, Drama,,7.7,95,David Fincher,624982,96962694,,,2010,2.181,44457906.46,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+189,Schindler's List,1993,195,Biography, Drama, History,8.9,94,Steven Spielberg,1213505,96898818,,,1993,1.445,67058005.54,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+193,When Harry Met Sally...,1989,95,Comedy, Drama, Romance,7.6,76,Rob Reiner,195663,92823600,,,1989,1.24,74857741.94,TRUE,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+194,Blade Runner 2049,2017,164,Action, Drama, Mystery,8,81,Denis Villeneuve,461823,92054159,,,2017,2.451,37557796.41,TRUE,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+196,Mystic River,2003,138,Crime, Drama, Mystery,7.9,84,Clint Eastwood,419420,90135191,,,2003,1.84,48986516.85,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+199,Aliens,1986,137,Action, Adventure, Sci-Fi,8.3,84,James Cameron,652719,85160248,,,1986,1.096,77700956.2,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+201,Apocalypse Now,1979,147,Drama, Mystery, War,8.4,94,Francis Ford Coppola,606398,83471511,,,1979,0.726,114974533.1,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+209,Alien,1979,117,Horror, Sci-Fi,,8.4,89,Ridley Scott,787806,78900000,,,1979,0.726,108677686,TRUE,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+227,Bridge of Spies,2015,142,Drama, History, Thriller,7.6,81,Steven Spielberg,287659,72313754,,,2015,2.37,30512132.49,TRUE,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+229,The Bridges of Madison County,1995,135,Drama, Romance,,7.6,69,Clint Eastwood,73172,71516617,,,1995,1.524,46926914.04,TRUE,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+236,Kill Bill: Vol. 1,2003,111,Action, Crime, Drama,8.1,69,Quentin Tarantino,1000639,70099045,,,2003,1.84,38097307.07,TRUE,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+240,The Godfather: Part III,1990,162,Crime, Drama,,7.6,60,Francis Ford Coppola,359809,66666062,,,1990,1.307,51006933.44,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+242,Kill Bill: Vol. 2,2004,137,Action, Crime, Thriller,8,83,Quentin Tarantino,683900,66208183,,,2004,1.889,35049329.27,TRUE,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+248,Cinderella Man,2005,144,Biography, Drama, History,8,69,Ron Howard,176151,61649911,,,2005,1.953,31566774.71,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+250,Misery,1990,107,Drama, Thriller,,7.8,75,Rob Reiner,184740,61276872,,,1990,1.307,46883605.2,TRUE,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+251,Prisoners,2013,153,Crime, Drama, Mystery,8.1,70,Denis Villeneuve,601149,61002302,,,2013,2.33,26181245.49,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+254,The Grand Budapest Hotel,2014,99,Adventure, Comedy, Crime,8.1,88,Wes Anderson,707630,59100318,,,2014,2.367,24968448.67,TRUE,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+259,The Godfather: Part II,1974,202,Crime, Drama,,9,90,Francis Ford Coppola,1129952,57300000,,,1974,0.493,116227180.5,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+262,2001: A Space Odyssey,1968,149,Adventure, Sci-Fi,,8.3,84,Stanley Kubrick,603517,56954992,,,1968,0.348,163663770.1,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+263,Midnight in Paris,2011,96,Comedy, Fantasy, Romance,7.7,81,Woody Allen,388089,56816662,,,2011,2.249,25263077.81,TRUE,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+274,The Hateful Eight,2015,168,Crime, Drama, Mystery,7.8,68,Quentin Tarantino,517059,54117416,,,2015,2.37,22834352.74,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+280,The Prestige,2006,130,Drama, Mystery, Sci-Fi,8.5,66,Christopher Nolan,1190259,53089891,,,2006,2.016,26334271.33,TRUE,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+284,The Royal Tenenbaums,2001,110,Comedy, Drama,,7.6,76,Wes Anderson,266842,52364010,,,2001,1.771,29567481.65,TRUE,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+285,Stand by Me,1986,89,Adventure, Drama,,8.1,75,Rob Reiner,363401,52287414,,,1986,1.096,47707494.53,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+300,The Game,1997,129,Action, Drama, Mystery,7.8,61,David Fincher,345096,48323648,,,1997,1.605,30108191.9,TRUE,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+307,Sicario,2015,121,Action, Crime, Drama,7.6,82,Denis Villeneuve,371291,46889293,,,2015,2.37,19784511.81,TRUE,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+308,Goodfellas,1990,146,Biography, Crime, Drama,8.7,90,Martin Scorsese,1020727,46836394,,,1990,1.307,35835037.49,TRUE,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+309,Full Metal Jacket,1987,116,Drama, War,,8.3,76,Stanley Kubrick,675146,46357676,,,1987,1.136,40807813.38,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+311,Manhattan,1979,96,Comedy, Drama, Romance,7.9,83,Woody Allen,131436,45700000,,,1979,0.726,62947658.4,TRUE,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+313,"O Brother, Where Art Thou?",2000,107,Adventure, Comedy, Crime,7.7,69,Joel Coen,286742,45512588,,,2000,1.722,26430074.33,TRUE,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+314,Moonrise Kingdom,2012,94,Comedy, Drama, Romance,7.8,84,Wes Anderson,318789,45512466,,,2012,2.296,19822502.61,TRUE,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+324,The Shining,1980,146,Drama, Horror,,8.4,66,Stanley Kubrick,898237,44017374,,,1980,0.824,53419143.2,TRUE,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+329,Casino,1995,178,Crime, Drama,,8.2,73,Martin Scorsese,466276,42438300,,,1995,1.524,27846653.54,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+337,Hannah and Her Sisters,1986,107,Comedy, Drama,,7.9,90,Woody Allen,67176,40084041,,,1986,1.096,36573030.11,TRUE,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+339,Annie Hall,1977,93,Comedy, Romance,,8,92,Woody Allen,251823,39200000,,,1977,0.606,64686468.65,TRUE,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+343,The Terminator,1984,107,Action, Sci-Fi,,8,84,James Cameron,799795,38400000,,,1984,1.039,36958614.05,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+347,Fight Club,1999,139,Drama,,,8.8,66,David Fincher,1854740,37030102,,,1999,1.666,22226951.98,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+349,Rear Window,1954,112,Mystery, Thriller,,8.4,100,Alfred Hitchcock,444074,36764313,,,1954,0.269,136670308.6,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+354,Changeling,2008,141,Biography, Crime, Drama,7.7,63,Clint Eastwood,239203,35739802,,,2008,2.153,16600000.93,TRUE,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+355,Children of Men,2006,109,Adventure, Drama, Sci-Fi,7.9,84,Alfonso CuarÃ³n,465113,35552383,,,2006,2.016,17635110.62,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+365,Zodiac,2007,157,Crime, Drama, Mystery,7.7,78,David Fincher,466080,33080084,,,2007,2.073,15957589.97,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+366,Blade Runner,1982,117,Action, Sci-Fi, Thriller,8.1,84,Ridley Scott,693827,32868943,,,1982,0.965,34061080.83,TRUE,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+373,Isle of Dogs,2018,101,Animation, Adventure, Comedy,7.9,82,Wes Anderson,139114,32015231,,,2018,2.511,12749992.43,TRUE,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+374,Psycho,1960,109,Horror, Mystery, Thriller,8.5,97,Alfred Hitchcock,604211,32000000,,,1960,0.296,108108108.1,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+375,The Outlaw Josey Wales,1976,135,Western,,,7.8,69,Clint Eastwood,65659,31800000,,,1976,0.569,55887521.97,TRUE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+377,The Princess Bride,1987,98,Adventure, Family, Fantasy,8,77,Rob Reiner,393899,30857814,,,1987,1.136,27163568.66,TRUE,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+381,Spartacus,1960,197,Adventure, Biography, Drama,7.9,87,Stanley Kubrick,124339,30000000,,,1960,0.296,101351351.4,TRUE,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+388,Taxi Driver,1976,114,Crime, Drama,,8.3,94,Martin Scorsese,724636,28262574,,,1976,0.569,49670604.57,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+392,Rush,2013,123,Action, Biography, Drama,8.1,74,Ron Howard,432811,26947624,,,2013,2.33,11565503.86,TRUE,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+399,Memento,2000,113,Mystery, Thriller,,8.4,80,Christopher Nolan,1125712,25544867,,,2000,1.722,14834417.54,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+402,Boyhood,2014,165,Drama,,,7.9,100,Richard Linklater,335533,25379975,,,2014,2.367,10722422.9,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+408,Fargo,1996,98,Crime, Drama, Thriller,8.1,85,Joel Coen,617444,24611975,,,1996,1.569,15686408.54,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+415,Raging Bull,1980,129,Biography, Drama, Sport,8.2,89,Martin Scorsese,321860,23383987,,,1980,0.824,28378625,TRUE,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+418,Match Point,2005,124,Drama, Romance, Thriller,7.6,72,Woody Allen,206294,23089926,,,2005,1.953,11822798.77,TRUE,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+426,Empire of the Sun,1987,153,Action, Drama, History,7.7,62,Steven Spielberg,115677,22238696,,,1987,1.136,19576316.9,TRUE,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+430,Fantastic Mr. Fox,2009,87,Animation, Adventure, Comedy,7.9,83,Wes Anderson,199696,21002919,,,2009,2.145,9791570.629,TRUE,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+438,Frost/Nixon,2008,122,Biography, Drama, History,7.7,80,Ron Howard,103330,18593156,,,2008,2.153,8635929.401,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+441,Crimes and Misdemeanors,1989,104,Comedy, Drama,,7.9,77,Woody Allen,54670,18254702,,,1989,1.24,14721533.87,TRUE,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+448,The Big Lebowski,1998,117,Comedy, Crime, Sport,8.1,71,Joel Coen,732620,17498804,,,1998,1.63,10735462.58,TRUE,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+452,Rushmore,1998,93,Comedy, Drama, Romance,7.7,86,Wes Anderson,169229,17105219,,,1998,1.63,10493999.39,TRUE,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+461,Gake no ue no Ponyo,2008,101,Animation, Adventure, Comedy,7.7,86,Hayao Miyazaki,125317,15090400,,,2008,2.153,7009010.683,TRUE,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+463,Per qualche dollaro in piÃ¹,1965,132,Western,,,8.3,74,Sergio Leone,232772,15000000,,,1965,0.315,47619047.62,TRUE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+466,Per un pugno di dollari,1964,99,Action, Drama, Western,8,65,Sergio Leone,198219,14500000,,,1964,0.31,46774193.55,TRUE,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+470,Letters from Iwo Jima,2006,141,Action, Adventure, Drama,7.9,89,Clint Eastwood,154011,13756082,,,2006,2.016,6823453.373,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+472,Y tu mamÃ¡ tambiÃ©n,2001,106,Drama,,,7.6,88,Alfonso CuarÃ³n,115827,13622333,,,2001,1.771,7691887.634,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+476,North by Northwest,1959,136,Adventure, Mystery, Thriller,8.3,98,Alfred Hitchcock,299198,13275000,,,1959,0.292,45462328.77,TRUE,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+490,The Birds,1963,119,Drama, Horror, Mystery,7.7,90,Alfred Hitchcock,171739,11403529,,,1963,0.306,37266434.64,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+495,The Purple Rose of Cairo,1985,82,Comedy, Fantasy, Romance,7.7,75,Woody Allen,47102,10631333,,,1985,1.076,9880421.004,TRUE,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+496,After Hours,1985,97,Comedy, Crime, Drama,7.7,90,Martin Scorsese,59635,10600000,,,1985,1.076,9851301.115,TRUE,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+497,Notorious,1946,102,Drama, Film-Noir, Romance,7.9,100,Alfred Hitchcock,92306,10464000,,,1946,0.195,53661538.46,TRUE,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+500,Sen to Chihiro no kamikakushi,2001,125,Animation, Adventure, Family,8.6,96,Hayao Miyazaki,651376,10055859,,,2001,1.771,5678068.323,TRUE,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+501,A Little Princess,1995,97,Drama, Family, Fantasy,7.7,83,Alfonso CuarÃ³n,32236,10019307,,,1995,1.524,6574348.425,TRUE,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+516,Before Midnight,2013,109,Drama, Romance,,7.9,94,Richard Linklater,141457,8114627,,,2013,2.33,3482672.532,TRUE,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+518,Dazed and Confused,1993,102,Comedy,,,7.6,78,Richard Linklater,165465,7993039,,,1993,1.445,5531514.879,TRUE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+520,Strangers on a Train,1951,101,Crime, Film-Noir, Thriller,7.9,88,Alfred Hitchcock,123341,7630000,,,1951,0.26,29346153.85,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+528,The Irishman,2019,209,Biography, Crime, Drama,7.9,94,Martin Scorsese,324720,7000000,,,2019,2.557,2737583.105,TRUE,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+529,Incendies,2010,131,Drama, Mystery, War,8.3,80,Denis Villeneuve,150023,6857096,,,2010,2.181,3144014.672,TRUE,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+536,A Clockwork Orange,1971,136,Crime, Drama, Sci-Fi,8.3,77,Stanley Kubrick,757904,6207725,,,1971,0.405,15327716.05,TRUE,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+539,Barton Fink,1991,116,Comedy, Drama, Thriller,7.7,69,Joel Coen,113240,6153939,,,1991,1.362,4518310.573,TRUE,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+541,"Il buono, il brutto, il cattivo",1966,161,Western,,,8.8,90,Sergio Leone,688390,6100000,,,1966,0.325,18769230.77,TRUE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+547,Before Sunset,2004,80,Drama, Romance,,8.1,90,Richard Linklater,236311,5820649,,,2004,1.889,3081338.804,TRUE,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+552,Before Sunrise,1995,101,Drama, Romance,,8.1,77,Richard Linklater,272291,5535405,,,1995,1.524,3632155.512,TRUE,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+555,Once Upon a Time in the West,1968,165,Western,,,8.5,80,Sergio Leone,302844,5321508,,,1968,0.348,15291689.66,TRUE,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+556,Kaze tachinu,2013,126,Animation, Biography, Drama,7.8,83,Hayao Miyazaki,73690,5209580,,,2013,2.33,2235871.245,TRUE,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+560,Miller's Crossing,1990,115,Crime, Drama, Thriller,7.7,66,Joel Coen,125822,5080409,,,1990,1.307,3887076.511,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+567,Hauru no ugoku shiro,2004,119,Animation, Adventure, Family,8.2,80,Hayao Miyazaki,333915,4711096,,,2004,1.889,2493962.943,TRUE,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+571,The Conversation,1974,113,Drama, Mystery, Thriller,7.8,85,Francis Ford Coppola,98611,4420000,,,1974,0.493,8965517.241,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+573,Rebecca,1940,130,Drama, Mystery, Romance,9,96,Alfred Hitchcock,123942,4360000,,,1940,0.14,31142857.14,TRUE,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+602,Vertigo,1958,128,Mystery, Romance, Thriller,8.3,100,Alfred Hitchcock,364368,3200000,,,1958,0.289,11072664.36,TRUE,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+609,Waking Life,2001,99,Animation, Drama, Fantasy,7.8,83,Richard Linklater,60684,2892011,,,2001,1.771,1632981.931,TRUE,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+611,Reservoir Dogs,1992,99,Crime, Drama, Thriller,8.3,79,Quentin Tarantino,918562,2832029,,,1992,1.403,2018552.388,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+617,The King of Comedy,1982,109,Comedy, Crime, Drama,7.8,73,Martin Scorsese,88511,2500000,,,1982,0.965,2590673.575,TRUE,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+620,Mononoke-hime,1997,134,Animation, Action, Adventure,8.4,76,Hayao Miyazaki,343171,2375308,,,1997,1.605,1479942.679,TRUE,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+627,Blood Simple,1984,99,Crime, Drama, Thriller,7.6,82,Joel Coen,87745,2150000,,,1984,1.039,2069297.401,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+641,Flipped,2010,90,Comedy, Drama, Romance,7.7,45,Rob Reiner,81446,1752214,,,2010,2.181,803399.3581,TRUE,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+663,Tonari no Totoro,1988,86,Animation, Family, Fantasy,8.2,86,Hayao Miyazaki,291180,1105564,,,1988,1.183,934542.6881,TRUE,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+683,GiÃ¹ la testa,1971,157,Drama, War, Western,7.6,77,Sergio Leone,30144,696690,,,1971,0.405,1720222.222,TRUE,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+695,Kaze no tani no Naushika,1984,117,Animation, Adventure, Fantasy,8.1,86,Hayao Miyazaki,150924,495770,,,1984,1.039,477160.7315,TRUE,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+704,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,Comedy,,,8.4,97,Stanley Kubrick,450474,275902,,,1964,0.31,890006.4516,TRUE,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+712,This Is Spinal Tap,1984,82,Comedy, Music,,7.9,92,Rob Reiner,128812,188751,,,1984,1.039,181666.025,TRUE,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+744,Dial M for Murder,1954,105,Crime, Thriller,,8.2,75,Alfred Hitchcock,158335,12562,,,1954,0.269,46698.88476,TRUE,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+0,Star Wars: Episode VII - The Force Awakens,2015,138,Action, Adventure, Sci-Fi,7.9,80,J.J. Abrams,860823,936662225,1925,17.5,2015,2.37,395216128.7,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,Avengers: Endgame,2019,181,Action, Adventure, Drama,8.4,78,Anthony Russo,809955,858373000,1926,17.7,2019,2.557,335695346.1,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Avengers: Infinity War,2018,149,Action, Adventure, Sci-Fi,8.4,68,Anthony Russo,834477,678815482,1928,17.2,2018,2.511,270336711.3,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,The Avengers,2012,143,Action, Adventure, Sci-Fi,8,69,Joss Whedon,1260806,623279547,1930,16.7,2012,2.296,271463217.3,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+6,Incredibles 2,2018,118,Animation, Action, Adventure,7.6,80,Brad Bird,250057,608581744,1931,15.2,2018,2.511,242366285.9,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,Rogue One,2016,133,Action, Adventure, Sci-Fi,7.8,65,Gareth Edwards,556608,532177324,1933,12.9,2016,2.4,221740551.7,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+11,Toy Story 4,2019,100,Animation, Adventure, Comedy,7.8,84,Josh Cooley,203177,434038008,1936,13.9,2019,2.557,169745016.8,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+12,The Lion King,1994,88,Animation, Adventure, Drama,8.5,88,Roger Allers,942045,422783777,1937,14.4,1994,1.482,285279201.8,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+13,Toy Story 3,2010,103,Animation, Adventure, Comedy,8.2,92,Lee Unkrich,757032,415004880,1938,14.1,2010,2.181,190281925.7,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+14,Captain America: Civil War,2016,147,Action, Adventure, Sci-Fi,7.8,75,Anthony Russo,663649,408084349,1939,13.9,2016,2.4,170035145.4,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,Guardians of the Galaxy Vol. 2,2017,136,Action, Adventure, Comedy,7.6,67,James Gunn,569974,389813101,1941,14.7,2017,2.451,159042472.9,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+17,Harry Potter and the Deathly Hallows: Part 2,2011,130,Adventure, Drama, Fantasy,8.1,85,David Yates,764493,381011219,1942,16.3,2011,2.249,169413614.5,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+18,Finding Nemo,2003,100,Animation, Adventure, Comedy,8.1,90,Andrew Stanton,949565,380843261,1943,17.3,2003,1.84,206980033.2,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+20,Deadpool,2016,108,Action, Adventure, Comedy,8,65,Tim Miller,902669,363070709,1945,18,2016,2.4,151279462.1,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+21,Inside Out,2015,95,Animation, Adventure, Comedy,8.1,94,Pete Docter,616228,356461711,1946,19.5,2015,2.37,150405785.2,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+23,Zootopia,2016,108,Animation, Adventure, Comedy,8,78,Byron Howard,434143,341268248,1948,24,2016,2.4,142195103.3,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+24,Joker,2019,122,Crime, Drama, Thriller,8.5,59,Todd Phillips,939252,335451311,1949,23.8,2019,2.557,131189405.9,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+25,Guardians of the Galaxy,2014,121,Action, Adventure, Comedy,8,76,James Gunn,1043455,333176600,1950,24.1,2014,2.367,140759019.9,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+27,Deadpool 2,2018,119,Action, Adventure, Comedy,7.7,66,David Leitch,478586,324591735,1952,26.6,2018,2.511,129267915.2,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+28,Star Wars,1977,121,Action, Adventure, Fantasy,8.6,90,George Lucas,1231473,322740140,1953,26.8,1977,0.606,532574488.4,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+29,Iron Man,2008,126,Action, Adventure, Sci-Fi,7.9,79,Jon Favreau,939644,318412101,1954,26.9,2008,2.153,147892290.3,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+30,Harry Potter and the Sorcerer's Stone,2001,152,Adventure, Family, Fantasy,7.6,64,Chris Columbus,658185,317575550,1955,26.8,2001,1.771,179319904,FALSE,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+32,Thor: Ragnarok,2017,130,Action, Adventure, Comedy,7.9,74,Taika Waititi,587775,315058289,1957,28.1,2017,2.451,128542753.6,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+33,Star Wars: Episode VI - Return of the Jedi,1983,131,Action, Adventure, Fantasy,8.3,58,Richard Marquand,950470,309125409,1958,28.9,1983,0.996,310366876.5,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+34,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,Action, Adventure, Fantasy,8,63,Gore Verbinski,1015122,305413918,1959,29.2,2003,1.84,165985825,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+35,Skyfall,2012,143,Action, Adventure, Thriller,7.7,81,Sam Mendes,630614,304360277,1960,29.6,2012,2.296,132561096.3,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+37,Harry Potter and the Half-Blood Prince,2009,153,Action, Adventure, Family,7.6,78,David Yates,474827,301959197,1962,30.3,2009,2.145,140773518.4,FALSE,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+38,Harry Potter and the Deathly Hallows: Part 1,2010,146,Adventure, Family, Fantasy,7.7,65,David Yates,479120,295983305,1963,30.6,2010,2.181,135709906,FALSE,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+39,The Sixth Sense,1999,107,Drama, Mystery, Thriller,8.1,64,M. Night Shyamalan,911573,293506292,1964,31,1999,1.666,176174244.9,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+40,Up,2009,96,Animation, Adventure, Comedy,8.2,88,Pete Docter,935507,293004164,1965,31.5,2009,2.145,136598677.9,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+42,Star Wars: Episode V - The Empire Strikes Back,1980,124,Action, Adventure, Fantasy,8.7,82,Irvin Kershner,1159315,290475067,1967,33.4,1980,0.824,352518285.2,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+43,Harry Potter and the Goblet of Fire,2005,157,Adventure, Family, Fantasy,7.7,81,Mike Newell,548619,290013036,1968,34.8,2005,1.953,148496178.2,FALSE,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+44,"Monsters, Inc.",2001,92,Animation, Adventure, Comedy,8.1,79,Pete Docter,815505,289916256,1969,36.7,2001,1.771,163702007.9,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+45,Home Alone,1990,103,Comedy, Family,,7.6,63,Chris Columbus,488817,285761243,1970,38.8,1990,1.307,218639053.6,FALSE,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+46,The Hangover,2009,100,Comedy,,,7.7,73,Todd Phillips,717559,277322503,1971,40.5,2009,2.145,129287880.2,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+48,Shrek,2001,90,Animation, Adventure, Comedy,7.8,84,Andrew Adamson,613941,267665011,1973,44.4,2001,1.771,151137781.5,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+49,The Incredibles,2004,115,Animation, Action, Adventure,8,90,Brad Bird,657047,261441092,1974,49.3,2004,1.889,138401848.6,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+51,Captain America: The Winter Soldier,2014,136,Action, Adventure, Sci-Fi,7.7,70,Anthony Russo,736182,259766572,1976,56.9,2014,2.367,109745066.3,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+53,The Lego Movie,2014,100,Animation, Action, Adventure,7.7,83,Christopher Miller,323982,257760692,1978,65.2,2014,2.367,108897630.8,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+54,Star Trek,2009,127,Action, Adventure, Sci-Fi,7.9,82,J.J. Abrams,577336,257730019,1979,72.6,2009,2.145,120153855,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+55,The Blind Side,2009,129,Biography, Drama, Sport,7.6,53,John Lee Hancock,293266,255959475,1980,82.4,2009,2.145,119328426.6,FALSE,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+56,Despicable Me,2010,95,Animation, Comedy, Crime,7.6,72,Pierre Coffin,500851,251513985,1981,90.9,2010,2.181,115320488.3,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+58,Moana,2016,107,Animation, Adventure, Comedy,7.6,81,Ron Clements,272784,248757044,1983,99.6,2016,2.4,103648768.3,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+60,Toy Story 2,1999,92,Animation, Adventure, Comedy,7.9,88,John Lasseter,527512,245852179,1985,107.6,1999,1.666,147570335.5,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+61,Ghostbusters,1984,105,Action, Comedy, Fantasy,7.8,71,Ivan Reitman,355413,238632124,1986,109.6,1984,1.039,229674806.5,FALSE,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+62,X-Men: Days of Future Past,2014,132,Action, Adventure, Sci-Fi,7.9,75,Bryan Singer,659763,233921534,1987,113.6,2014,2.367,98826165.61,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+64,The Exorcist,1973,122,Horror,,,8,81,William Friedkin,362393,232906145,1989,124,1973,0.444,524563389.6,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+65,Star Trek Into Darkness,2013,132,Action, Adventure, Sci-Fi,7.7,72,J.J. Abrams,463188,228778661,1990,130.7,2013,2.33,98188266.52,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+67,The Bourne Ultimatum,2007,115,Action, Mystery, Thriller,8,85,Paul Greengrass,604694,227471070,1992,140.3,2007,2.073,109730376.3,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+68,Logan,2017,137,Action, Drama, Sci-Fi,8.1,77,James Mangold,647884,226277068,1993,144.5,2017,2.451,92320305.18,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+69,WALLÂ·E,2008,98,Animation, Adventure, Family,8.4,95,Andrew Stanton,999790,223808164,1994,148.2,2008,2.153,103951771.5,FALSE,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+70,Big Hero 6,2014,102,Animation, Action, Adventure,7.8,74,Don Hall,410983,222527828,1995,152.4,2014,2.367,94012601.61,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+71,Mission: Impossible - Fallout,2018,147,Action, Adventure, Thriller,7.7,86,Christopher McQuarrie,291257,220159104,1996,156.9,2018,2.511,87677859.02,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+72,Beauty and the Beast,1991,84,Animation, Family, Fantasy,8,95,Gary Trousdale,417178,218967620,1997,160.5,1991,1.362,160769177.7,FALSE,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+73,How to Train Your Dragon,2010,98,Animation, Action, Adventure,8.1,75,Dean DeBlois,666773,217581231,1998,163,2010,2.181,99762141.68,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+74,Aladdin,1992,90,Animation, Adventure, Comedy,8,86,Ron Clements,373845,217350219,1999,166.6,1992,1.403,154918188.9,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+76,Bohemian Rhapsody,2018,134,Biography, Drama, Music,8,49,Bryan Singer,450349,216428042,2001,177.1,2018,2.511,86191972.12,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+77,A Star Is Born,2018,136,Drama, Music, Romance,7.6,88,Bradley Cooper,334312,215288866,2002,179.9,2018,2.511,85738297.89,FALSE,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+78,300,2006,117,Action, Drama,,7.6,52,Zack Snyder,732876,210614939,2003,184,2006,2.016,104471695.9,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+80,Coco,2017,105,Animation, Adventure, Family,8.4,81,Lee Unkrich,384171,209726015,2005,195.3,2017,2.451,85567529.58,FALSE,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+81,Sherlock Holmes,2009,128,Action, Adventure, Mystery,7.6,57,Guy Ritchie,583158,209028679,2006,201.6,2009,2.145,97449267.6,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+82,Dawn of the Planet of the Apes,2014,130,Action, Adventure, Drama,7.6,79,Matt Reeves,411599,208545589,2007,207.3,2014,2.367,88105445.29,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+84,Ratatouille,2007,111,Animation, Adventure, Comedy,8,96,Brad Bird,641645,206445654,2009,214.5,2007,2.073,99587869.75,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+86,Tangled,2010,100,Animation, Adventure, Comedy,7.7,71,Nathan Greno,405922,200821936,2011,224.9,2010,2.181,92077916.55,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+87,Gone with the Wind,1939,238,Drama, History, Romance,8.1,97,Victor Fleming,290074,198676459,2012,229.6,1939,0.139,1429327043,FALSE,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+89,Toy Story,1995,81,Animation, Adventure, Comedy,8.3,95,John Lasseter,887429,191796233,2014,236.7,1995,1.524,125850546.6,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+90,Spider-Man: Into the Spider-Verse,2018,117,Animation, Action, Adventure,8.4,87,Bob Persichetti,375110,190241310,2015,237,2018,2.511,75763166.07,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+91,Wreck-It Ralph,2012,101,Animation, Adventure, Comedy,7.7,72,Rich Moore,380195,189422889,2016,240,2012,2.296,82501258.28,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+95,Dances with Wolves,1990,181,Adventure, Drama, Western,8,72,Kevin Costner,240266,184208848,2020,258.8,1990,1.307,140940205,FALSE,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+96,The Fugitive,1993,130,Action, Crime, Drama,7.8,87,Andrew Davis,267684,183875760,2021,271,1993,1.445,127249660.9,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+97,The Revenant,2015,156,Action, Adventure, Drama,8,76,Alejandro G. IÃ±Ã¡rritu,705589,183637894,2022,292.7,2015,2.37,77484343.46,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+98,Ocean's Eleven,2001,116,Crime, Thriller,,7.7,74,Steven Soderbergh,516372,183417150,,,2001,1.771,103566996,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+99,Rain Man,1988,133,Drama,,,8,65,Barry Levinson,473064,178800000,,,1988,1.183,151141166.5,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+100,How to Train Your Dragon 2,2014,102,Animation, Action, Adventure,7.8,76,Dean DeBlois,305611,177002924,,,2014,2.367,74779435.57,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+101,The Bourne Supremacy,2004,108,Action, Mystery, Thriller,7.7,73,Paul Greengrass,434841,176241941,,,2004,1.889,93299068.82,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+102,Get Out,2017,104,Horror, Mystery, Thriller,7.7,85,Jordan Peele,492851,176040665,,,2017,2.451,71824016.73,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+104,The Matrix,1999,136,Action, Sci-Fi,,8.7,73,Lana Wachowski,1676426,171479930,,,1999,1.666,102929129.7,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+105,True Grit,2010,110,Drama, Western,,7.6,80,Ethan Coen,311822,171243005,,,2010,2.181,78515820.72,FALSE,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+107,The Help,2011,146,Drama,,,8,62,Tate Taylor,428521,169708112,,,2011,2.249,75459365.05,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+108,Hidden Figures,2016,127,Biography, Drama, History,7.8,74,Theodore Melfi,200876,169607287,,,2016,2.4,70669702.92,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+110,Casino Royale,2006,144,Action, Adventure, Thriller,8,80,Martin Campbell,582239,167445960,,,2006,2.016,83058511.9,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+111,Knives Out,2019,130,Comedy, Crime, Drama,7.9,82,Rian Johnson,454203,165359751,,,2019,2.557,64669437.23,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+113,The Pursuit of Happyness,2006,117,Biography, Drama,,8,64,Gabriele Muccino,448930,163566459,,,2006,2.016,81134156.25,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+114,The Sound of Music,1965,172,Biography, Drama, Family,8,63,Robert Wise,205425,163214286,,,1965,0.315,518140590.5,FALSE,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+116,Straight Outta Compton,2015,147,Biography, Drama, History,7.8,72,F. Gary Gray,179264,161197785,,,2015,2.37,68015943.04,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+117,The Sting,1973,129,Comedy, Crime, Drama,8.3,83,George Roy Hill,241513,159600000,,,1973,0.444,359459459.5,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+118,1917,2019,119,Drama, Thriller, War,8.3,78,Sam Mendes,425844,159227644,,,2019,2.557,62271272.59,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+120,Mad Max: Fury Road,2015,120,Action, Adventure, Sci-Fi,8.1,90,George Miller,882316,154058340,,,2015,2.37,65003518.99,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+121,La La Land,2016,128,Comedy, Drama, Music,8,94,Damien Chazelle,505918,151101803,,,2016,2.4,62959084.58,FALSE,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+122,As Good as It Gets,1997,139,Comedy, Drama, Romance,7.7,67,James L. Brooks,275755,148478011,,,1997,1.605,92509664.17,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+124,X: First Class,2011,131,Action, Adventure, Sci-Fi,7.7,65,Matthew Vaughn,645512,146408305,,,2011,2.249,65099290.8,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+125,Taken,2008,90,Action, Thriller,,7.8,51,Pierre Morel,564791,145000989,,,2008,2.153,67348346.03,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+127,The Jungle Book,1967,78,Animation, Adventure, Family,7.6,65,Wolfgang Reitherman,166409,141843612,,,1967,0.334,424681473.1,FALSE,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+129,Slumdog Millionaire,2008,120,Drama, Romance,,8,84,Danny Boyle,798882,141319928,,,2008,2.153,65638610.31,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+130,The King's Speech,2010,118,Biography, Drama, History,8,88,Tom Hooper,639603,138797449,,,2010,2.181,63639362.22,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+131,Platoon,1986,120,Drama, War,,8.1,92,Oliver Stone,381222,138530565,,,1986,1.096,126396500.9,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+132,Good Will Hunting,1997,126,Drama, Romance,,8.3,70,Gus Van Sant,861606,138433435,,,1997,1.605,86251361.37,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+133,The Green Mile,1999,189,Crime, Drama, Fantasy,8.6,61,Frank Darabont,1147794,136801374,,,1999,1.666,82113669.87,FALSE,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+134,Argo,2012,120,Biography, Drama, Thriller,7.7,86,Ben Affleck,572581,136025503,,,2012,2.296,59244557.06,FALSE,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+136,Wonder,2017,113,Drama, Family,,8,66,Stephen Chbosky,141923,132422809,,,2017,2.451,54028073.85,FALSE,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+138,Silver Linings Playbook,2012,122,Comedy, Drama, Romance,7.7,81,David O. Russell,661871,132092958,,,2012,2.296,57531776.13,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+141,The Silence of the Lambs,1991,118,Crime, Drama, Thriller,8.6,85,Jonathan Demme,1270197,130742922,,,1991,1.362,95993334.8,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+143,American Beauty,1999,122,Drama,,,8.3,84,Sam Mendes,1069738,130096601,,,1999,1.666,78089196.28,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+144,Kingsman: The Secret Service,2014,129,Action, Adventure, Comedy,7.7,60,Matthew Vaughn,590440,128261724,,,2014,2.367,54187462.61,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+145,Wo hu cang long,2000,120,Action, Adventure, Fantasy,7.8,94,Ang Lee,253228,128078872,,,2000,1.722,74377974.45,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+148,The Truman Show,1998,103,Comedy, Drama,,8.1,90,Peter Weir,939631,125618201,,,1998,1.63,77066380.98,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+149,Life of Pi,2012,127,Adventure, Drama, Fantasy,7.9,79,Ang Lee,580708,124987023,,,2012,2.296,54436856.71,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+150,The Fault in Our Stars,2014,126,Drama, Romance,,7.7,69,Josh Boone,344312,124872350,,,2014,2.367,52755534.43,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+151,The Bourne Identity,2002,119,Action, Mystery, Thriller,7.9,68,Doug Liman,508771,121661683,,,2002,1.799,67627394.66,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+152,Mulan,1998,88,Animation, Adventure, Family,7.6,71,Tony Bancroft,256906,120620254,,,1998,1.63,74000155.83,FALSE,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+154,Walk the Line,2005,136,Biography, Drama, Music,7.8,72,James Mangold,234207,119519402,,,2005,1.953,61197850.49,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+155,Blazing Saddles,1974,93,Comedy, Western,,7.7,73,Mel Brooks,125993,119500000,,,1974,0.493,242393509.1,FALSE,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+156,On Golden Pond,1981,109,Drama,,,7.6,68,Mark Rydell,27650,119285432,,,1981,0.909,131227097.9,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+158,Ford v Ferrari,2019,152,Action, Biography, Drama,8.1,81,James Mangold,291289,117624028,,,2019,2.557,46000793.12,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+159,Rocky,1976,120,Drama, Sport,,8.1,70,John G. Avildsen,518546,117235247,,,1976,0.569,206037340.9,FALSE,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+161,Remember the Titans,2000,113,Biography, Drama, Sport,7.8,48,Boaz Yakin,198089,115654751,,,2000,1.722,67163037.75,FALSE,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+162,District 9,2009,112,Action, Sci-Fi, Thriller,7.9,81,Neill Blomkamp,638202,115646235,,,2009,2.145,53914328.67,FALSE,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+163,One Flew Over the Cuckoo's Nest,1975,133,Drama,,,8.7,83,Milos Forman,918088,112000000,,,1975,0.538,208178438.7,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+164,Doctor Zhivago,1965,197,Drama, Romance, War,8,69,David Lean,69903,111722000,,,1965,0.315,354673015.9,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+165,The Little Mermaid,1989,83,Animation, Family, Fantasy,7.6,88,Ron Clements,237696,111543479,,,1989,1.24,89954418.55,FALSE,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+166,The Last Samurai,2003,154,Action, Drama,,7.7,55,Edward Zwick,400049,111110575,,,2003,1.84,60386182.07,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+167,Creed,2015,133,Drama, Sport,,7.6,82,Ryan Coogler,247666,109767581,,,2015,2.37,46315435.02,FALSE,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+169,Little Women,2019,135,Drama, Romance,,7.8,91,Greta Gerwig,143250,108101214,,,2019,2.557,42276579.59,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+171,Baby Driver,2017,113,Action, Crime, Drama,7.6,86,Edgar Wright,439406,107825862,,,2017,2.451,43992599.76,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+172,Watchmen,2009,162,Action, Drama, Mystery,7.6,56,Zack Snyder,500799,107509799,,,2009,2.145,50121118.41,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+173,Captain Phillips,2013,134,Adventure, Biography, Crime,7.8,82,Paul Greengrass,421244,107100855,,,2013,2.33,45966032.19,FALSE,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+174,Black Swan,2010,108,Drama, Thriller,,8,79,Darren Aronofsky,699673,106954678,,,2010,2.181,49039283.81,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+175,Kramer vs. Kramer,1979,105,Drama,,,7.8,77,Robert Benton,133351,106260000,,,1979,0.726,146363636.4,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+176,The Graduate,1967,106,Comedy, Drama, Romance,8,83,Mike Nichols,253676,104945305,,,1967,0.334,314207500,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+177,Road to Perdition,2002,117,Crime, Drama, Thriller,7.7,72,Sam Mendes,246840,104454762,,,2002,1.799,58062680.38,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+179,Butch Cassidy and the Sundance Kid,1969,110,Biography, Crime, Drama,8,66,George Roy Hill,201888,102308889,,,1969,0.367,278770814.7,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+180,Mary Poppins,1964,139,Comedy, Family, Fantasy,7.8,88,Robert Stevenson,158029,102272727,,,1964,0.31,329912022.6,FALSE,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+184,Edge of Tomorrow,2014,113,Action, Adventure, Sci-Fi,7.9,71,Doug Liman,600004,100206256,,,2014,2.367,42334708.91,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+186,Die Hard: With a Vengeance,1995,128,Action, Adventure, Thriller,7.6,58,John McTiernan,364420,100012499,,,1995,1.524,65624999.34,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+190,The Others,2001,101,Horror, Mystery, Thriller,7.6,74,Alejandro AmenÃ¡bar,337651,96522687,,,2001,1.771,54501799.55,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+191,Dead Poets Society,1989,128,Comedy, Drama,,8.1,79,Peter Weir,425457,95860116,,,1989,1.24,77306545.16,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+192,The Fighter,2010,116,Biography, Drama, Sport,7.8,79,David O. Russell,340584,93617009,,,2010,2.181,42923892.25,FALSE,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+195,The Imitation Game,2014,114,Biography, Drama, Thriller,8,73,Morten Tyldum,685201,91125683,,,2014,2.367,38498387.41,FALSE,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+197,Inside Man,2006,129,Crime, Drama, Mystery,7.6,76,Spike Lee,339757,88513495,,,2006,2.016,43905503.47,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+198,Young Frankenstein,1974,106,Comedy,,,8,80,Mel Brooks,143359,86300000,,,1974,0.493,175050709.9,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+200,Green Book,2018,130,Biography, Comedy, Drama,8.2,69,Peter Farrelly,377884,85080171,,,2018,2.511,33882983.27,FALSE,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+202,Airplane!,1980,88,Comedy,,,7.7,78,Jim Abrahams,214882,83400000,,,1980,0.824,101213592.2,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+203,Brokeback Mountain,2005,134,Drama, Romance,,7.7,87,Ang Lee,323103,83043761,,,2005,1.953,42521126.98,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+204,Die Hard,1988,132,Action, Thriller,,8.2,72,John McTiernan,793164,83008852,,,1988,1.183,70168091.29,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+205,Fried Green Tomatoes,1991,130,Drama,,,7.7,64,Jon Avnet,66941,82418501,,,1991,1.362,60512849.49,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+206,The Notebook,2004,123,Drama, Romance,,7.8,53,Nick Cassavetes,520284,81001787,,,2004,1.889,42880776.6,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+207,Fiddler on the Roof,1971,181,Drama, Family, Musical,8,67,Norman Jewison,39491,80500000,,,1971,0.405,198765432.1,FALSE,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+208,Star Trek II: The Wrath of Khan,1982,113,Action, Adventure, Sci-Fi,7.7,67,Nicholas Meyer,112704,78912963,,,1982,0.965,81775091.19,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+210,The Naked Gun: From the Files of Police Squad!,1988,85,Comedy, Crime,,7.6,76,David Zucker,152871,78756177,,,1988,1.183,66573268.81,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+211,Man on Fire,2004,146,Action, Crime, Drama,7.7,47,Tony Scott,329592,77911774,,,2004,1.889,41244983.59,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+212,Philadelphia,1993,125,Drama,,,7.7,66,Jonathan Demme,224169,77324422,,,1993,1.445,53511710.73,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+213,The Muppet Movie,1979,95,Adventure, Comedy, Family,7.6,74,James Frawley,32802,76657000,,,1979,0.726,105588154.3,FALSE,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+214,Training Day,2001,122,Crime, Drama, Thriller,7.7,69,Antoine Fuqua,390247,76631907,,,2001,1.771,43270416.15,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+215,Fantasia,1940,125,Animation, Family, Fantasy,7.7,96,James Algar,88662,76408097,,,1940,0.14,545772121.4,FALSE,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+216,The Untouchables,1987,119,Crime, Drama, Thriller,7.9,79,Brian De Palma,281842,76270454,,,1987,1.136,67139484.15,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+217,Moneyball,2011,133,Biography, Drama, Sport,7.6,87,Bennett Miller,369529,75605492,,,2011,2.249,33617381.95,FALSE,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+218,Braveheart,1995,178,Biography, Drama, History,8.3,68,Mel Gibson,959181,75600000,,,1995,1.524,49606299.21,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+219,Zombieland,2009,88,Adventure, Comedy, Fantasy,7.6,73,Ruben Fleischer,520041,75590286,,,2009,2.145,35240226.57,FALSE,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+220,The Last of the Mohicans,1992,112,Action, Adventure, Drama,7.7,76,Michael Mann,150409,75505856,,,1992,1.403,53817431.22,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+221,Ray,2004,152,Biography, Drama, Music,7.7,73,Taylor Hackford,138356,75331600,,,2004,1.889,39879089.47,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+222,Coraline,2009,100,Animation, Drama, Family,7.7,80,Henry Selick,197761,75286229,,,2009,2.145,35098475.06,FALSE,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+223,The Nightmare Before Christmas,1993,76,Animation, Family, Fantasy,8,82,Henry Selick,300208,75082668,,,1993,1.445,51960323.88,FALSE,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+224,Ben-Hur,1959,212,Adventure, Drama, History,8.1,90,William Wyler,219466,74700000,,,1959,0.292,255821917.8,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+225,No Country for Old Men,2007,122,Crime, Drama, Thriller,8.1,91,Ethan Coen,856916,74283625,,,2007,2.073,35833876.03,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+226,Sin City,2005,124,Crime, Thriller,,8,74,Frank Miller,738512,74103820,,,2005,1.953,37943584.23,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+228,My Fair Lady,1964,170,Drama, Family, Musical,7.8,95,George Cukor,86525,72000000,,,1964,0.31,232258064.5,FALSE,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+230,Groundhog Day,1993,101,Comedy, Fantasy, Romance,8,72,Harold Ramis,577991,70906973,,,1993,1.445,49070569.55,FALSE,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+231,All the President's Men,1976,138,Biography, Drama, History,7.9,84,Alan J. Pakula,103031,70600000,,,1976,0.569,124077328.6,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+232,V for Vendetta,2005,132,Action, Drama, Sci-Fi,8.2,62,James McTeigue,1032749,70511035,,,2005,1.953,36103960.57,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+233,JFK,1991,189,Drama, History, Thriller,8,72,Oliver Stone,142110,70405498,,,1991,1.362,51692729.81,FALSE,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+234,The Big Short,2015,130,Biography, Comedy, Drama,7.8,81,Adam McKay,362942,70259870,,,2015,2.37,29645514.77,FALSE,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+235,Ferris Bueller's Day Off,1986,103,Comedy,,,7.8,61,John Hughes,321382,70136369,,,1986,1.096,63993037.41,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+237,Seven Pounds,2008,123,Drama,,,7.6,36,Gabriele Muccino,286770,69951824,,,2008,2.153,32490396.66,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+238,Heat,1995,170,Crime, Drama, Thriller,8.2,76,Michael Mann,577113,67436818,,,1995,1.524,44249880.58,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+239,Hacksaw Ridge,2016,139,Biography, Drama, History,8.1,71,Mel Gibson,435928,67209615,,,2016,2.4,28004006.25,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+241,Big Fish,2003,125,Adventure, Drama, Fantasy,8,58,Tim Burton,415218,66257002,,,2003,1.84,36009240.22,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+243,Lethal Weapon,1987,109,Action, Crime, Thriller,7.6,68,Richard Donner,236894,65207127,,,1987,1.136,57400639.96,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+244,L.A. Confidential,1997,138,Crime, Drama, Mystery,8.2,90,Curtis Hanson,531967,64616940,,,1997,1.605,40259775.7,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+245,Scent of a Woman,1992,156,Drama,,,8,59,Martin Brest,263918,63895607,,,1992,1.403,45542129.01,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+246,The Fifth Element,1997,126,Action, Adventure, Sci-Fi,7.7,52,Luc Besson,434125,63540020,,,1997,1.605,39588797.51,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+247,Patton,1970,172,Biography, Drama, War,7.9,91,Franklin J. Schaffner,93741,61700000,,,1970,0.388,159020618.6,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+249,The Goonies,1985,114,Adventure, Comedy, Family,7.8,62,Richard Donner,244430,61503218,,,1985,1.076,57159124.54,FALSE,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+252,Little Miss Sunshine,2006,101,Comedy, Drama,,7.8,80,Jonathan Dayton,439856,59891098,,,2006,2.016,29707885.91,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+253,Predator,1987,107,Action, Adventure, Sci-Fi,7.8,45,John McTiernan,371387,59735548,,,1987,1.136,52584109.15,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+255,The Butterfly Effect,2004,113,Drama, Sci-Fi, Thriller,7.6,30,Eric Bress,451479,57938693,,,2004,1.889,30671621.49,FALSE,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+256,La vita Ã¨ bella,1997,116,Comedy, Drama, Romance,8.6,59,Roberto Benigni,623629,57598247,,,1997,1.605,35886758.26,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+257,Boyz n the Hood,1991,112,Crime, Drama,,7.8,76,John Singleton,126082,57504069,,,1991,1.362,42220314.98,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+258,Blood Diamond,2006,143,Adventure, Drama, Thriller,8,64,Edward Zwick,499439,57366262,,,2006,2.016,28455487.1,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+260,The Blues Brothers,1980,133,Action, Adventure, Comedy,7.9,60,John Landis,183182,57229890,,,1980,0.824,69453750,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+261,Twelve Monkeys,1995,129,Mystery, Sci-Fi, Thriller,8,74,Terry Gilliam,578443,57141459,,,1995,1.524,37494395.67,FALSE,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+264,Guess Who's Coming to Dinner,1967,108,Comedy, Drama,,7.8,63,Stanley Kramer,39642,56700000,,,1967,0.334,169760479,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+265,12 Years a Slave,2013,134,Biography, Drama, History,8.1,96,Steve McQueen,640533,56671993,,,2013,2.33,24322743.78,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+266,Tombstone,1993,130,Action, Biography, Drama,7.8,50,George P. Cosmatos,126871,56505065,,,1993,1.445,39103851.21,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+267,Edward Scissorhands,1990,105,Drama, Fantasy, Romance,7.9,74,Tim Burton,447368,56362352,,,1990,1.307,43123452.18,FALSE,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+268,Primal Fear,1996,129,Crime, Drama, Mystery,7.7,47,Gregory Hoblit,189716,56116183,,,1996,1.569,35765572.34,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+269,Saw,2004,103,Horror, Mystery, Thriller,7.6,46,James Wan,379020,56000369,,,2004,1.889,29645510.32,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+270,Ordinary People,1980,124,Drama,,,7.7,86,Robert Redford,47099,54800000,,,1980,0.824,66504854.37,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+271,Crash,2004,112,Crime, Drama, Thriller,7.7,66,Paul Haggis,419483,54580300,,,2004,1.889,28893753.31,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+272,"Three Billboards Outside Ebbing, Missouri",2017,115,Comedy, Crime, Drama,8.2,88,Martin McDonagh,432610,54513740,,,2017,2.451,22241427.99,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+273,The Count of Monte Cristo,2002,131,Action, Adventure, Drama,7.8,61,Kevin Reynolds,129022,54234062,,,2002,1.799,30146782.66,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+275,The Verdict,1982,129,Drama,,,7.7,77,Sidney Lumet,36096,54000000,,,1982,0.965,55958549.22,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+276,Ying xiong,2002,120,Action, Adventure, History,7.9,85,Yimou Zhang,173999,53710019,,,2002,1.799,29855485.83,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+277,3:10 to Yuma,2007,122,Action, Crime, Drama,7.7,76,James Mangold,288797,53606916,,,2007,2.073,25859583.21,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+278,Gisaengchung,2019,132,Comedy, Drama, Thriller,8.6,96,Bong Joon Ho,552778,53367844,,,2019,2.557,20871272.59,FALSE,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+279,Papillon,1973,151,Biography, Crime, Drama,8,58,Franklin J. Schaffner,121627,53267000,,,1973,0.444,119970720.7,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+281,Blow,2001,124,Biography, Crime, Drama,7.6,52,Ted Demme,240714,52990775,,,2001,1.771,29921386.22,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+282,My Cousin Vinny,1992,120,Comedy, Crime,,7.6,68,Jonathan Lynn,107325,52929168,,,1992,1.403,37725707.77,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+283,Gandhi,1982,191,Biography, Drama, History,8,79,Richard Attenborough,217664,52767889,,,1982,0.965,54681750.26,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+286,Awakenings,1990,121,Biography, Drama,,7.8,74,Penny Marshall,125276,52096475,,,1990,1.307,39859583.01,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+287,"South Park: Bigger, Longer & Uncut",1999,81,Animation, Comedy, Fantasy,7.7,73,Trey Parker,192112,52037603,,,1999,1.666,31235055.82,FALSE,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+288,Amadeus,1984,160,Biography, Drama, History,8.3,88,Milos Forman,369007,51973029,,,1984,1.039,50022164.58,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+289,Lion,2016,118,Biography, Drama,,8,69,Garth Davis,213970,51739495,,,2016,2.4,21558122.92,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+290,Finding Neverland,2004,106,Biography, Drama, Family,7.6,67,Marc Forster,198677,51680613,,,2004,1.889,27358715.19,FALSE,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+291,Enemy at the Gates,2001,131,Drama, History, War,7.6,53,Jean-Jacques Annaud,243729,51401758,,,2001,1.771,29024143.42,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+292,Goldfinger,1964,110,Action, Adventure, Thriller,7.7,87,Guy Hamilton,174119,51081062,,,1964,0.31,164777619.4,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+293,Atonement,2007,123,Drama, Mystery, Romance,7.8,85,Joe Wright,251370,50927067,,,2007,2.073,24566843.7,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+294,Apocalypto,2006,139,Action, Adventure, Drama,7.8,68,Mel Gibson,291018,50866635,,,2006,2.016,25231465.77,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+295,The Hurricane,1999,146,Biography, Drama, Sport,7.6,74,Norman Jewison,91557,50668906,,,1999,1.666,30413509,FALSE,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+296,Dog Day Afternoon,1975,125,Biography, Crime, Drama,8,86,Sidney Lumet,235652,50000000,,,1975,0.538,92936802.97,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+297,"Planes, Trains & Automobiles",1987,93,Comedy, Drama,,7.6,72,John Hughes,124773,49530280,,,1987,1.136,43600598.59,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+298,Sleepers,1996,147,Crime, Drama, Thriller,7.6,49,Barry Levinson,186734,49100000,,,1996,1.569,31293817.72,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+299,The Deer Hunter,1978,183,Drama, War,,8.1,86,Michael Cimino,311361,48979328,,,1978,0.652,75121668.71,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+301,Malcolm X,1992,202,Biography, Drama, History,7.7,73,Spike Lee,85819,48169908,,,1992,1.403,34333505.35,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+302,Kick-Ass,2010,117,Action, Comedy, Crime,7.6,66,Matthew Vaughn,524081,48071303,,,2010,2.181,22040945.9,FALSE,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+303,Kubo and the Two Strings,2016,101,Animation, Action, Adventure,7.8,84,Travis Knight,118035,48023088,,,2016,2.4,20009620,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+304,Manchester by the Sea,2016,137,Drama,,,7.8,96,Kenneth Lonergan,246963,47695120,,,2016,2.4,19872966.67,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+305,First Blood,1982,93,Action, Adventure,,7.7,61,Ted Kotcheff,226541,47212904,,,1982,0.965,48925289.12,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,Halloween,1978,91,Horror, Thriller,,7.7,87,John Carpenter,233106,47000000,,,1978,0.652,72085889.57,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+310,The Breakfast Club,1985,97,Comedy, Drama,,7.8,66,John Hughes,357026,45875171,,,1985,1.076,42634917.29,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+312,Scarface,1983,170,Crime, Drama,,8.3,65,Brian De Palma,740911,45598982,,,1983,0.996,45782110.44,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+315,The Dirty Dozen,1967,150,Action, Adventure, War,7.7,73,Robert Aldrich,67183,45300000,,,1967,0.334,135628742.5,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+316,28 Days Later...,2002,113,Drama, Horror, Sci-Fi,7.6,73,Danny Boyle,376853,45064915,,,2002,1.799,25049980.54,FALSE,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+317,Spotlight,2015,129,Biography, Crime, Drama,8.1,93,Tom McCarthy,420316,45055776,,,2015,2.37,19010875.95,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+318,The Bridge on the River Kwai,1957,161,Adventure, Drama, War,8.1,87,David Lean,203463,44908000,,,1957,0.281,159814946.6,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+319,Lawrence of Arabia,1962,228,Adventure, Biography, Drama,8.3,100,David Lean,268085,44824144,,,1962,0.303,147934468.6,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+320,Midnight Cowboy,1969,113,Drama,,,7.8,79,John Schlesinger,101124,44785053,,,1969,0.367,122030117.2,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+321,The Artist,2011,100,Comedy, Drama, Romance,7.9,89,Michel Hazanavicius,230624,44671682,,,2011,2.249,19862908.85,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+322,Lost in Translation,2003,102,Comedy, Drama,,7.7,89,Sofia Coppola,415074,44585453,,,2003,1.84,24231224.46,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+323,The Odd Couple,1968,105,Comedy,,,7.7,86,Gene Saks,31572,44527234,,,1968,0.348,127951821.8,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+325,The Last Emperor,1987,163,Biography, Drama, History,7.7,76,Bernardo Bertolucci,94326,43984230,,,1987,1.136,38718512.32,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+326,Sense and Sensibility,1995,136,Drama, Romance,,7.6,84,Ang Lee,102598,43182776,,,1995,1.524,28335154.86,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+327,Escape from Alcatraz,1979,112,Action, Biography, Crime,7.6,76,Don Siegel,121731,43000000,,,1979,0.726,59228650.14,FALSE,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+328,Cabaret,1972,124,Drama, Music, Musical,7.8,80,Bob Fosse,48334,42765000,,,1972,0.418,102308612.4,FALSE,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+330,Birdman or (The Unexpected Virtue of Ignorance),2014,119,Comedy, Drama,,7.7,87,Alejandro G. IÃ±Ã¡rritu,580291,42340598,,,2014,2.367,17887874.1,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+331,Donnie Brasco,1997,127,Biography, Crime, Drama,7.7,76,Mike Newell,279318,41909762,,,1997,1.605,26112001.25,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+332,End of Watch,2012,109,Action, Crime, Drama,7.6,68,David Ayer,228132,41003371,,,2012,2.296,17858611.06,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+333,Falling Down,1993,113,Action, Crime, Drama,7.6,56,Joel Schumacher,171640,40903593,,,1993,1.445,28306984.78,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+334,Paddington 2,2017,103,Adventure, Comedy, Family,7.8,88,Paul King,61594,40442052,,,2017,2.451,16500225.21,FALSE,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+335,I Am Sam,2001,132,Drama,,,7.7,28,Jessie Nelson,142863,40311852,,,2001,1.771,22762197.63,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+336,There Will Be Blood,2007,158,Drama,,,8.2,93,Paul Thomas Anderson,517359,40222514,,,2007,2.073,19403045.83,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+338,The Illusionist,2006,110,Drama, Fantasy, Mystery,7.6,68,Neil Burger,354728,39868642,,,2006,2.016,19776112.1,FALSE,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+340,The Longest Day,1962,178,Action, Drama, History,7.8,75,Ken Annakin,52141,39100000,,,1962,0.303,129042904.3,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+341,Stardust,2007,127,Adventure, Family, Fantasy,7.6,66,Matthew Vaughn,255036,38634938,,,2007,2.073,18637210.81,FALSE,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+342,Pride & Prejudice,2005,129,Drama, Romance,,7.8,82,Joe Wright,258924,38405088,,,2005,1.953,19664663.59,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+344,All That Jazz,1979,123,Drama, Music, Musical,7.9,72,Bob Fosse,28223,37823676,,,1979,0.726,52098727.27,FALSE,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+345,Philomena,2013,98,Biography, Comedy, Drama,7.6,77,Stephen Frears,94212,37707719,,,2013,2.33,16183570.39,FALSE,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+346,Pan's Labyrinth,2006,118,Drama, Fantasy, War,8.2,98,Guillermo del Toro,618623,37634615,,,2006,2.016,18667963.79,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+348,Carlito's Way,1993,144,Crime, Drama, Thriller,7.9,65,Brian De Palma,201000,36948322,,,1993,1.445,25569773.01,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+350,The Thin Red Line,1998,170,Drama, War,,7.6,78,Terrence Malick,172710,36400491,,,1998,1.63,22331589.57,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+351,Dirty Harry,1971,102,Action, Crime, Thriller,7.7,90,Don Siegel,143292,35900000,,,1971,0.405,88641975.31,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+352,The Theory of Everything,2014,123,Biography, Drama, Romance,7.7,72,James Marsh,404182,35893537,,,2014,2.367,15164147.44,FALSE,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+353,Shine,1996,105,Biography, Drama, Music,7.7,87,Scott Hicks,51350,35811509,,,1996,1.569,22824416.19,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+356,Drive,2011,100,Crime, Drama,,7.8,78,Nicolas Winding Refn,571571,35061555,,,2011,2.249,15589842.15,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+357,50/50,2011,100,Comedy, Drama, Romance,7.6,72,Jonathan Levine,315426,35014192,,,2011,2.249,15568782.57,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+358,Midnight Express,1978,121,Biography, Crime, Drama,7.6,59,Alan Parker,73662,35000000,,,1978,0.652,53680981.6,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+359,The Killing Fields,1984,141,Biography, Drama, History,7.8,76,Roland JoffÃ©,51585,34700291,,,1984,1.039,33397777.67,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+360,Mississippi Burning,1988,128,Crime, Drama, History,7.8,65,Alan Parker,88214,34603943,,,1988,1.183,29251008.45,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+361,Eternal Sunshine of the Spotless Mind,2004,108,Drama, Romance, Sci-Fi,8.3,89,Michel Gondry,911664,34400301,,,2004,1.889,18210852.83,FALSE,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+362,Wind River,2017,107,Crime, Drama, Mystery,7.7,73,Taylor Sheridan,205444,33800859,,,2017,2.451,13790640.15,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+363,Planet of the Apes,1968,112,Adventure, Sci-Fi,,8,79,Franklin J. Schaffner,165167,33395426,,,1968,0.348,95963867.82,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+364,AmÃ©lie,2001,122,Comedy, Romance,,8.3,69,Jean-Pierre Jeunet,703810,33225499,,,2001,1.771,18760869,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+367,The Pianist,2002,150,Biography, Drama, Music,8.5,85,Roman Polanski,729603,32572577,,,2002,1.799,18105934.96,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+368,Almost Famous,2000,122,Adventure, Comedy, Drama,7.9,90,Cameron Crowe,252586,32534850,,,2000,1.722,18893641.11,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+369,October Sky,1999,108,Biography, Drama, Family,7.8,71,Joe Johnston,82855,32481825,,,1999,1.666,19496893.76,FALSE,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+370,The Sandlot,1993,101,Comedy, Drama, Family,7.8,55,David Mickey Evans,78963,32416586,,,1993,1.445,22433623.53,FALSE,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+371,(500) Days of Summer,2009,95,Comedy, Drama, Romance,7.7,76,Marc Webb,472242,32391374,,,2009,2.145,15100873.66,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+372,Nightcrawler,2014,117,Crime, Drama, Thriller,7.9,76,Dan Gilroy,466134,32381218,,,2014,2.367,13680277.99,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+376,Paper Moon,1973,102,Comedy, Crime, Drama,8.1,77,Peter Bogdanovich,42285,30933743,,,1973,0.444,69670592.34,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+378,From Here to Eternity,1953,118,Drama, Romance, War,7.6,85,Fred Zinnemann,43374,30500000,,,1953,0.268,113805970.1,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+379,Snatch,2000,104,Comedy, Crime,,8.3,55,Guy Ritchie,782001,30328156,,,2000,1.722,17612169.57,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+380,Being There,1979,130,Comedy, Drama,,8,83,Hal Ashby,65625,30177511,,,1979,0.726,41566819.56,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+382,Serpico,1973,130,Biography, Crime, Drama,7.7,87,Sidney Lumet,109941,29800000,,,1973,0.444,67117117.12,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+383,The Last Picture Show,1971,118,Drama, Romance,,8,93,Peter Bogdanovich,42456,29133000,,,1971,0.405,71933333.33,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+384,Chinatown,1974,130,Drama, Mystery, Thriller,8.1,92,Roman Polanski,294230,29000000,,,1974,0.493,58823529.41,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+385,The Insider,1999,157,Biography, Drama, Thriller,7.8,84,Michael Mann,159886,28965197,,,1999,1.666,17386072.63,FALSE,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+386,A Man for All Seasons,1966,120,Biography, Drama, History,7.7,72,Fred Zinnemann,31222,28350000,,,1966,0.325,87230769.23,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+387,The Shawshank Redemption,1994,142,Drama,,,9.3,80,Frank Darabont,2343110,28341469,,,1994,1.482,19123798.25,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+389,Do the Right Thing,1989,120,Comedy, Drama,,8,93,Spike Lee,89429,27545445,,,1989,1.24,22214068.55,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+390,Dallas Buyers Club,2013,117,Biography, Drama,,8,80,Jean-Marc VallÃ©e,441614,27298285,,,2013,2.33,11716002.15,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+391,The Muppet Christmas Carol,1992,85,Comedy, Drama, Family,7.7,64,Brian Henson,50298,27281507,,,1992,1.403,19445122.59,FALSE,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+393,Hell or High Water,2016,102,Action, Crime, Drama,7.6,88,David Mackenzie,204175,26862450,,,2016,2.4,11192687.5,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+394,Glory,1989,122,Biography, Drama, History,7.8,78,Edward Zwick,122779,26830000,,,1989,1.24,21637096.77,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+395,Boogie Nights,1997,155,Drama,,,7.9,85,Paul Thomas Anderson,239473,26400640,,,1997,1.605,16448996.88,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+396,The Wrestler,2008,109,Drama, Sport,,7.9,80,Darren Aronofsky,289415,26236603,,,2008,2.153,12186067.35,FALSE,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+397,Searching,2018,102,Drama, Mystery, Thriller,7.6,71,Aneesh Chaganty,140840,26020957,,,2018,2.511,10362786.54,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+398,Her,2013,126,Drama, Romance, Sci-Fi,8,90,Spike Jonze,540772,25568251,,,2013,2.33,10973498.28,FALSE,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+400,Serenity,2005,119,Action, Adventure, Sci-Fi,7.8,74,Joss Whedon,283310,25514517,,,2005,1.953,13064268.82,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+401,Ex Machina,2014,108,Drama, Sci-Fi, Thriller,7.7,78,Alex Garland,474141,25442958,,,2014,2.367,10749031.69,FALSE,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+403,In the Name of the Father,1993,133,Biography, Crime, Drama,8.1,84,Jim Sheridan,156842,25010410,,,1993,1.445,17308242.21,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+404,Some Like It Hot,1959,121,Comedy, Music, Romance,8.2,98,Billy Wilder,243943,25000000,,,1959,0.292,85616438.36,FALSE,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+405,Enter the Dragon,1973,102,Action, Crime, Drama,7.7,83,Robert Clouse,96561,25000000,,,1973,0.444,56306306.31,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+406,Gifted,2017,101,Drama,,,7.6,60,Marc Webb,99643,24801212,,,2017,2.451,10118813.55,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+407,Huo Yuan Jia,2006,104,Action, Biography, Drama,7.6,70,Ronny Yu,72863,24633730,,,2006,2.016,12219112.1,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+409,Sling Blade,1996,135,Drama,,,8,84,Billy Bob Thornton,86838,24475416,,,1996,1.569,15599372.85,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+410,In the Heat of the Night,1967,110,Crime, Drama, Mystery,7.9,75,Norman Jewison,67804,24379978,,,1967,0.334,72993946.11,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+411,Lord of War,2005,122,Action, Crime, Drama,7.6,62,Andrew Niccol,294140,24149632,,,2005,1.953,12365402.97,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+412,The Best Years of Our Lives,1946,170,Drama, Romance, War,8,93,William Wyler,57259,23650000,,,1946,0.195,121282051.3,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+413,Hot Fuzz,2007,121,Action, Comedy, Mystery,7.8,81,Edgar Wright,463466,23637265,,,2007,2.073,11402443.32,FALSE,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+414,Hotel Rwanda,2004,121,Biography, Drama, History,8.1,79,Terry George,334320,23530892,,,2004,1.889,12456798.31,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+416,The Usual Suspects,1995,106,Crime, Mystery, Thriller,8.5,77,Bryan Singer,991208,23341568,,,1995,1.524,15315989.5,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+417,The Iron Giant,1999,86,Animation, Action, Adventure,8,85,Brad Bird,172083,23159305,,,1999,1.666,13901143.46,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+419,The Remains of the Day,1993,134,Drama, Romance,,7.8,84,James Ivory,66065,22954968,,,1993,1.445,15885791,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+420,Being John Malkovich,1999,113,Comedy, Drama, Fantasy,7.7,90,Spike Jonze,312542,22858926,,,1999,1.666,13720843.94,FALSE,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+421,Lucky Number Slevin,2006,110,Action, Crime, Drama,7.7,53,Paul McGuigan,299524,22494487,,,2006,2.016,11157979.66,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+422,The Warriors,1979,92,Action, Crime, Thriller,7.6,65,Walter Hill,93878,22490039,,,1979,0.726,30978015.15,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+423,Magnolia,1999,188,Drama,,,8,77,Paul Thomas Anderson,289742,22455976,,,1999,1.666,13478977.19,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+424,Adaptation.,2002,115,Comedy, Drama,,7.7,83,Spike Jonze,178565,22245861,,,2002,1.799,12365681.49,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+425,Pink Floyd: The Wall,1982,95,Drama, Fantasy, Music,8.1,47,Alan Parker,76081,22244207,,,1982,0.965,23050991.71,FALSE,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+427,Billy Elliot,2000,110,Drama, Music,,7.7,74,Stephen Daldry,126770,21995263,,,2000,1.722,12773091.17,FALSE,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+428,Il postino,1994,108,Biography, Comedy, Drama,7.7,81,Michael Radford,33600,21848932,,,1994,1.482,14742869.1,FALSE,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+429,The Right Stuff,1983,193,Adventure, Biography, Drama,7.8,91,Philip Kaufman,56235,21500000,,,1983,0.996,21586345.38,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+431,A Christmas Story,1983,93,Comedy, Family,,7.9,77,Bob Clark,132947,20605209,,,1983,0.996,20687960.84,FALSE,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+432,Gone Baby Gone,2007,114,Crime, Drama, Mystery,7.6,72,Ben Affleck,250590,20300218,,,2007,2.073,9792676.315,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+433,Life of Brian,1979,94,Comedy,,,8.1,77,Terry Jones,367250,20045115,,,1979,0.726,27610351.24,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+434,La dolce vita,1960,174,Comedy, Drama,,8,95,Federico Fellini,66621,19516000,,,1960,0.296,65932432.43,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+435,LÃ©on,1994,110,Action, Crime, Drama,8.5,64,Luc Besson,1035236,19501238,,,1994,1.482,13158730.09,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+436,Kari-gurashi no Arietti,2010,94,Animation, Adventure, Family,7.6,80,Hiromasa Yonebayashi,80939,19202743,,,2010,2.181,8804558.918,FALSE,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+437,The Apartment,1960,125,Comedy, Drama, Romance,8.3,94,Billy Wilder,164363,18600000,,,1960,0.296,62837837.84,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+439,Into the Wild,2007,148,Adventure, Biography, Drama,8.1,73,Sean Penn,572921,18354356,,,2007,2.073,8854006.753,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+440,Only the Brave,2017,134,Action, Biography, Drama,7.6,72,Joseph Kosinski,58371,18340051,,,2017,2.451,7482680.947,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+442,Call Me by Your Name,2017,132,Drama, Romance,,7.9,93,Luca Guadagnino,212651,18095701,,,2017,2.451,7382986.944,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+443,The Perks of Being a Wallflower,2012,103,Drama, Romance,,8,67,Stephen Chbosky,462252,17738570,,,2012,2.296,7725858.014,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+444,Nebraska,2013,115,Adventure, Comedy, Drama,7.7,87,Alexander Payne,112298,17654912,,,2013,2.33,7577215.451,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+445,The Last King of Scotland,2006,123,Biography, Drama, History,7.7,74,Kevin Macdonald,175355,17605861,,,2006,2.016,8733065.972,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+446,Cat on a Hot Tin Roof,1958,108,Drama,,,8,84,Richard Brooks,45062,17570324,,,1958,0.289,60796968.86,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+447,Wait Until Dark,1967,108,Thriller,,,7.8,81,Terence Young,27733,17550741,,,1967,0.334,52547128.74,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+449,A Bronx Tale,1993,121,Crime, Drama, Romance,7.8,80,Robert De Niro,128171,17266971,,,1993,1.445,11949460.9,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+450,Eastern Promises,2007,100,Action, Crime, Drama,7.6,82,David Cronenberg,227760,17114882,,,2007,2.073,8256093.584,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+451,Kung fu,2004,99,Action, Comedy, Fantasy,7.7,78,Stephen Chow,127250,17108591,,,2004,1.889,9056956.591,FALSE,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+453,Diarios de motocicleta,2004,126,Adventure, Biography, Drama,7.8,75,Walter Salles,96703,16756372,,,2004,1.889,8870498.677,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+454,Trainspotting,1996,93,Drama,,,8.1,83,Danny Boyle,634716,16501785,,,1996,1.569,10517390.06,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+455,21 Grams,2003,124,Crime, Drama, Thriller,7.6,70,Alejandro G. IÃ±Ã¡rritu,224545,16290476,,,2003,1.84,8853519.565,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+456,Cool Hand Luke,1967,127,Crime, Drama,,8.1,92,Stuart Rosenberg,161984,16217773,,,1967,0.334,48556206.59,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+457,The Day of the Jackal,1973,143,Crime, Drama, Thriller,7.8,80,Fred Zinnemann,37445,16056255,,,1973,0.444,36162736.49,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+458,The French Connection,1971,104,Action, Crime, Drama,7.7,94,William Friedkin,110075,15630710,,,1971,0.405,38594345.68,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+459,In America,2002,105,Drama,,,7.7,76,Jim Sheridan,40403,15539266,,,2002,1.799,8637724.291,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+460,About Time,2013,123,Comedy, Drama, Fantasy,7.8,55,Richard Curtis,303032,15322921,,,2013,2.33,6576360.944,FALSE,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+462,American Psycho,2000,101,Comedy, Crime, Drama,7.6,64,Mary Harron,490062,15070285,,,2000,1.722,8751617.305,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+464,My Left Foot: The Story of Christy Brown,1989,103,Biography, Drama,,7.9,97,Jim Sheridan,68076,14743391,,,1989,1.24,11889831.45,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+465,Room,2015,118,Drama, Thriller,,8.1,86,Lenny Abrahamson,371538,14677674,,,2015,2.37,6193111.392,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+467,Dark City,1998,100,Mystery, Sci-Fi, Thriller,7.6,66,Alex Proyas,187927,14378331,,,1998,1.63,8821061.963,FALSE,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+468,The Thing,1982,109,Horror, Mystery, Sci-Fi,8.1,57,John Carpenter,371271,13782838,,,1982,0.965,14282733.68,FALSE,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+469,A Hard Day's Night,1964,87,Comedy, Music, Musical,7.6,96,Richard Lester,40351,13780024,,,1964,0.31,44451690.32,FALSE,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+471,Warrior,2011,140,Action, Drama, Sport,8.2,71,Gavin O'Connor,435950,13657115,,,2011,2.249,6072527.79,FALSE,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+473,Shaun of the Dead,2004,99,Comedy, Horror,,7.9,76,Edgar Wright,512249,13542874,,,2004,1.889,7169335.098,FALSE,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+474,Charade,1963,113,Comedy, Mystery, Romance,7.9,83,Stanley Donen,68689,13474588,,,1963,0.306,44034601.31,FALSE,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+475,Secrets & Lies,1996,136,Comedy, Drama,,8,91,Mike Leigh,37564,13417292,,,1996,1.569,8551492.67,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+477,The Intouchables,2011,112,Biography, Comedy, Drama,8.5,57,Olivier Nakache,760360,13182281,,,2011,2.249,5861396.621,FALSE,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+478,The Peanut Butter Falcon,2019,97,Adventure, Comedy, Drama,7.6,70,Tyler Nilson,66346,13122642,,,2019,2.557,5132046.148,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+479,Whiplash,2014,106,Drama, Music,,8.5,88,Damien Chazelle,717585,13092000,,,2014,2.367,5531051.965,FALSE,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+480,25th Hour,2002,135,Drama,,,7.6,68,Spike Lee,169708,13060843,,,2002,1.799,7260057.254,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+481,Rio Bravo,1959,141,Action, Drama, Western,8,93,Howard Hawks,56305,12535000,,,1959,0.292,42928082.19,FALSE,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+482,Mad Max 2,1981,96,Action, Adventure, Sci-Fi,7.6,77,George Miller,166588,12465371,,,1981,0.909,13713279.43,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+483,Gattaca,1997,106,Drama, Sci-Fi, Thriller,7.8,64,Andrew Niccol,280845,12339633,,,1997,1.605,7688244.86,FALSE,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+484,True Romance,1993,119,Crime, Drama, Romance,7.9,59,Tony Scott,206918,12281500,,,1993,1.445,8499307.958,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+485,The Great Escape,1963,172,Adventure, Drama, History,8.2,86,John Sturges,224730,12100000,,,1963,0.306,39542483.66,FALSE,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+486,The Wild Bunch,1969,145,Action, Adventure, Western,7.9,97,Sam Peckinpah,77401,12064472,,,1969,0.367,32873220.71,FALSE,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+487,Nuovo Cinema Paradiso,1988,155,Drama, Romance,,8.5,80,Giuseppe Tornatore,230763,11990401,,,1988,1.183,10135588.33,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+488,Anatomy of a Murder,1959,161,Crime, Drama, Mystery,8,95,Otto Preminger,59847,11900000,,,1959,0.292,40753424.66,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+489,Das Boot,1981,149,Adventure, Drama, Thriller,8.3,86,Wolfgang Petersen,231855,11487676,,,1981,0.909,12637707.37,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+491,The Lives of Others,2006,137,Drama, Mystery, Thriller,8.4,89,Florian Henckel von Donnersmarck,358685,11286112,,,2006,2.016,5598269.841,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+492,Office Space,1999,89,Comedy,,,7.7,68,Mike Judge,241575,10824921,,,1999,1.666,6497551.621,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+493,Glengarry Glen Ross,1992,100,Crime, Drama, Mystery,7.7,82,James Foley,95826,10725228,,,1992,1.403,7644496.08,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+494,Fear and Loathing in Las Vegas,1998,118,Adventure, Comedy, Drama,7.6,41,Terry Gilliam,259753,10680275,,,1998,1.63,6552315.951,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+498,La Vie En Rose,2007,140,Biography, Drama, Music,7.6,66,Olivier Dahan,82781,10301706,,,2007,2.073,4969467.438,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+499,MÃ¤n som hatar kvinnor,2009,152,Crime, Drama, Mystery,7.8,76,Niels Arden Oplev,208994,10095170,,,2009,2.145,4706372.96,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+502,King Kong,1933,100,Adventure, Horror, Sci-Fi,7.9,90,Merian C. Cooper,78991,10000000,,,1933,0.129,77519379.84,FALSE,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+503,Brazil,1985,132,Drama, Sci-Fi,,7.9,84,Terry Gilliam,187567,9929135,,,1985,1.076,9227820.632,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+504,On the Waterfront,1954,108,Crime, Drama, Thriller,8.1,91,Elia Kazan,142107,9600000,,,1954,0.269,35687732.34,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+505,Mr. Smith Goes to Washington,1939,129,Comedy, Drama,,8.1,73,Frank Capra,107017,9600000,,,1939,0.139,69064748.2,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+506,High Noon,1952,85,Drama, Thriller, Western,7.9,89,Fred Zinnemann,97222,9450000,,,1952,0.266,35526315.79,FALSE,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+507,Once,2007,86,Drama, Music, Romance,7.8,88,John Carney,110656,9439923,,,2007,2.073,4553749.638,FALSE,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+508,The Visitor,2007,104,Drama,,,7.6,79,Tom McCarthy,41544,9422422,,,2007,2.073,4545307.284,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+509,Hable con ella,2002,112,Drama, Mystery, Romance,7.9,86,Pedro AlmodÃ³var,104691,9284265,,,2002,1.799,5160792.107,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+510,What's Eating Gilbert Grape,1993,118,Drama,,,7.8,73,Lasse HallstrÃ¶m,215034,9170214,,,1993,1.445,6346168.858,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+511,The Boy in the Striped Pyjamas,2008,94,Drama, History, War,7.8,55,Mark Herman,190748,9030581,,,2008,2.153,4194417.557,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+512,Singin' in the Rain,1952,103,Comedy, Musical, Romance,8.3,99,Stanley Donen,218957,8819028,,,1952,0.266,33154240.6,FALSE,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0
+513,Blue Velvet,1986,120,Drama, Mystery, Thriller,7.7,76,David Lynch,181285,8551228,,,1986,1.096,7802215.328,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+514,The Hustler,1961,134,Drama, Sport,,8,90,Robert Rossen,75067,8284000,,,1961,0.299,27705685.62,FALSE,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+515,Todo sobre mi madre,1999,101,Drama,,,7.8,87,Pedro AlmodÃ³var,89058,8264530,,,1999,1.666,4960702.281,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+517,A Streetcar Named Desire,1951,122,Drama,,,8,97,Elia Kazan,99182,8000000,,,1951,0.26,30769230.77,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+519,In Bruges,2008,107,Comedy, Crime, Drama,7.9,67,Martin McDonagh,390334,7757130,,,2008,2.153,3602940.084,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+521,Cidade de Deus,2002,130,Crime, Drama,,8.6,79,Fernando Meirelles,699256,7563397,,,2002,1.799,4204222.902,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+522,Lola rennt,1998,81,Crime, Drama, Thriller,7.6,77,Tom Tykwer,188317,7267585,,,1998,1.63,4458641.104,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+523,Mulholland Dr.,2001,147,Drama, Mystery, Thriller,7.9,85,David Lynch,322031,7220243,,,2001,1.771,4076929.983,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+524,Der Name der Rose,1986,130,Crime, Drama, Mystery,7.7,54,Jean-Jacques Annaud,102031,7153487,,,1986,1.096,6526904.197,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+525,Jodaeiye Nader az Simin,2011,123,Drama,,,8.3,95,Asghar Farhadi,220002,7098492,,,2011,2.249,3156288.128,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+526,Deliverance,1972,109,Adventure, Drama, Thriller,7.7,80,John Boorman,98740,7056013,,,1972,0.418,16880413.88,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+527,Les triplettes de Belleville,2003,80,Animation, Comedy, Drama,7.8,91,Sylvain Chomet,50622,7002255,,,2003,1.84,3805573.37,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+530,Me and Earl and the Dying Girl,2015,105,Comedy, Drama,,7.7,74,Alfonso Gomez-Rejon,123210,6743776,,,2015,2.37,2845475.105,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+531,Amour,2012,127,Drama, Romance,,7.9,94,Michael Haneke,93090,6739492,,,2012,2.296,2935318.815,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+532,Loving Vincent,2017,94,Animation, Biography, Crime,7.8,62,Dorota Kobiela,50778,6735118,,,2017,2.451,2747906.161,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+533,American History X,1998,119,Drama,,,8.5,62,Tony Kaye,1034705,6719864,,,1998,1.63,4122615.951,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+534,3 Idiots,2009,170,Comedy, Drama,,8.4,67,Rajkumar Hirani,344445,6532908,,,2009,2.145,3045644.755,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+535,El secreto de sus ojos,2009,129,Drama, Mystery, Romance,8.2,80,Juan JosÃ© Campanella,193217,6391436,,,2009,2.145,2979690.443,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+537,The Straight Story,1999,112,Biography, Drama,,8,86,David Lynch,82002,6203044,,,1999,1.666,3723315.726,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+538,Un long dimanche de fianÃ§ailles,2004,133,Drama, Mystery, Romance,7.6,76,Jean-Pierre Jeunet,70925,6167817,,,2004,1.889,3265122.816,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+540,Short Cuts,1993,188,Comedy, Drama,,7.7,79,Robert Altman,42275,6110979,,,1993,1.445,4229051.211,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+542,Le scaphandre et le papillon,2007,112,Biography, Drama,,8,92,Julian Schnabel,103284,5990075,,,2007,2.073,2889568.259,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+543,Evil Dead II,1987,84,Action, Comedy, Fantasy,7.8,72,Sam Raimi,148359,5923044,,,1987,1.136,5213947.183,FALSE,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+544,The Florida Project,2017,111,Drama,,,7.6,92,Sean Baker,95181,5904366,,,2017,2.451,2408962.056,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+545,Ed Wood,1994,127,Biography, Comedy, Drama,7.8,70,Tim Burton,164937,5887457,,,1994,1.482,3972643.05,FALSE,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+546,Captain Fantastic,2016,118,Comedy, Drama,,7.9,72,Matt Ross,189400,5875006,,,2016,2.4,2447919.167,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+548,The Station Agent,2003,89,Comedy, Drama,,7.6,81,Tom McCarthy,67370,5739376,,,2003,1.84,3119226.087,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+549,Double Indemnity,1944,107,Crime, Drama, Film-Noir,8.3,95,Billy Wilder,143525,5720000,,,1944,0.176,32500000,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+550,Central do Brasil,1998,110,Drama,,,8,80,Walter Salles,36419,5595428,,,1998,1.63,3432777.914,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+551,Gully Boy,2019,154,Drama, Music, Romance,8,65,Zoya Akhtar,31886,5566534,,,2019,2.557,2176978.49,FALSE,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+553,Der Untergang,2004,156,Biography, Drama, History,8.2,82,Oliver Hirschbiegel,331308,5509040,,,2004,1.889,2916379.037,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+554,Amores perros,2000,154,Drama, Thriller,,8.1,83,Alejandro G. IÃ±Ã¡rritu,223741,5383834,,,2000,1.722,3126500.581,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+557,Hunt for the Wilderpeople,2016,101,Adventure, Comedy, Drama,7.9,81,Taika Waititi,111483,5202582,,,2016,2.4,2167742.5,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+558,The World's Fastest Indian,2005,127,Biography, Drama, Sport,7.8,68,Roger Donaldson,51980,5128124,,,2005,1.953,2625767.537,FALSE,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+559,Dawn of the Dead,1978,127,Action, Adventure, Horror,7.9,71,George A. Romero,111512,5100000,,,1978,0.652,7822085.89,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+561,Kimi no na wa.,2016,106,Animation, Drama, Fantasy,8.4,79,Makoto Shinkai,194838,5017246,,,2016,2.4,2090519.167,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+562,The Treasure of the Sierra Madre,1948,126,Adventure, Drama, Western,8.2,98,John Huston,114304,5014000,,,1948,0.24,20891666.67,FALSE,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+563,Moon,2009,97,Drama, Mystery, Sci-Fi,7.9,67,Duncan Jones,335152,5009677,,,2009,2.145,2335513.753,FALSE,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+564,Fanny och Alexander,1982,188,Drama,,,8.1,100,Ingmar Bergman,57784,4971340,,,1982,0.965,5151647.668,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+565,The Magnificent Seven,1960,128,Action, Adventure, Western,7.7,74,John Sturges,87719,4905000,,,1960,0.296,16570945.95,FALSE,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+566,The Magdalene Sisters,2002,114,Drama,,,7.7,83,Peter Mullan,25938,4890878,,,2002,1.799,2718664.814,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+568,Au revoir les enfants,1987,104,Drama, War,,8,88,Louis Malle,31163,4542825,,,1987,1.136,3998965.669,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+569,Bound by Honor,1993,180,Crime, Drama,,8,47,Taylor Hackford,28825,4496583,,,1993,1.445,3111822.145,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+570,Persepolis,2007,96,Animation, Biography, Drama,8,90,Vincent Paronnaud,88656,4445756,,,2007,2.073,2144600.096,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+572,Zwartboek,2006,145,Drama, Thriller, War,7.7,71,Paul Verhoeven,72643,4398392,,,2006,2.016,2181742.063,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+574,It Happened One Night,1934,105,Comedy, Romance,,7.8,95,Frank Capra,94016,4360000,,,1934,0.134,32537313.43,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+575,Bride of Frankenstein,1935,75,Drama, Horror, Sci-Fi,8.1,87,James Whale,43542,4360000,,,1935,0.137,31824817.52,FALSE,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+576,12 Angry Men,1957,96,Crime, Drama,,8.1,86,Sidney Lumet,689845,4360000,,,1957,0.281,15516014.23,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+577,The Lunchbox,2013,104,Drama, Romance,,7.8,76,Ritesh Batra,50523,4231500,,,2013,2.33,1816094.421,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+578,Dancer in the Dark,2000,140,Crime, Drama, Musical,8,61,Lars von Trier,102285,4184036,,,2000,1.722,2429753.775,FALSE,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+579,Ran,1985,162,Action, Drama, War,8.2,96,Akira Kurosawa,112505,4135750,,,1985,1.076,3843633.829,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+580,Serbuan maut,2011,101,Action, Thriller,,7.6,73,Gareth Evans,190531,4105123,,,2011,2.249,1825310.36,FALSE,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+581,Le dÃ®ner de cons,1998,80,Comedy,,,7.7,73,Francis Veber,37424,4065116,,,1998,1.63,2493936.196,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+582,Good Bye Lenin!,2003,121,Comedy, Drama, Romance,7.7,68,Wolfgang Becker,137981,4064200,,,2003,1.84,2208804.348,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+583,What Ever Happened to Baby Jane?,1962,134,Drama, Horror, Thriller,8.1,75,Robert Aldrich,50058,4050000,,,1962,0.303,13366336.63,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+584,Trois couleurs: Rouge,1994,99,Drama, Mystery, Romance,8.1,100,Krzysztof Kieslowski,90729,4043686,,,1994,1.482,2728533.063,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+585,Breaking the Waves,1996,159,Drama,,,7.8,76,Lars von Trier,62428,4040691,,,1996,1.569,2575328.872,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+586,My Name Is Khan,2010,165,Drama,,,8,50,Karan Johar,98575,4018695,,,2010,2.181,1842592.847,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+587,Willy Wonka & the Chocolate Factory,1971,100,Family, Fantasy, Musical,7.8,67,Mel Stuart,178731,4000000,,,1971,0.405,9876543.21,FALSE,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+588,The Adventures of Robin Hood,1938,102,Action, Adventure, Romance,7.9,97,Michael Curtiz,47175,3981000,,,1938,0.141,28234042.55,FALSE,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+589,Ace in the Hole,1951,111,Drama, Film-Noir,,8.1,72,Billy Wilder,31568,3969893,,,1951,0.26,15268819.23,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+590,"Lock, Stock and Two Smoking Barrels",1998,107,Action, Comedy, Crime,8.2,66,Guy Ritchie,535216,3897569,,,1998,1.63,2391146.626,FALSE,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+591,Lost Highway,1997,134,Mystery, Thriller,,7.6,52,David Lynch,131101,3796699,,,1997,1.605,2365544.548,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+592,Portrait de la jeune fille en feu,2019,122,Drama, Romance,,8.1,95,CÃ©line Sciamma,63134,3759854,,,2019,2.557,1470416.113,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+593,Requiem for a Dream,2000,102,Drama,,,8.3,68,Darren Aronofsky,766870,3635482,,,2000,1.722,2111197.445,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+594,Les choristes,2004,97,Drama, Music,,7.9,56,Christophe Barratier,57430,3635164,,,2004,1.889,1924385.389,FALSE,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+595,Mommy,2014,139,Drama,,,8.1,74,Xavier Dolan,50700,3492754,,,2014,2.367,1475603.718,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+596,En man som heter Ove,2015,116,Comedy, Drama, Romance,7.7,70,Hannes Holm,47444,3358518,,,2015,2.37,1417096.203,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+597,Der Himmel Ã¼ber Berlin,1987,128,Drama, Fantasy, Romance,8,79,Wim Wenders,64722,3333969,,,1987,1.136,2934831.866,FALSE,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+598,What We Do in the Shadows,2014,86,Comedy, Horror,,7.7,76,Jemaine Clement,157498,3333000,,,2014,2.367,1408111.534,FALSE,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+599,Manbiki kazoku,2018,121,Crime, Drama,,7.9,93,Hirokazu Koreeda,62754,3313513,,,2018,2.511,1319598.965,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+600,All Quiet on the Western Front,1930,152,Drama, War,,8,91,Lewis Milestone,57318,3270000,,,1930,0.167,19580838.32,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+601,Sing Street,2016,106,Comedy, Drama, Music,7.9,79,John Carney,85109,3237118,,,2016,2.4,1348799.167,FALSE,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+603,La piel que habito,2011,120,Drama, Horror, Thriller,7.6,70,Pedro AlmodÃ³var,138959,3185812,,,2011,2.249,1416546.02,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+604,Clerks,1994,92,Comedy,,,7.7,70,Kevin Smith,211450,3151130,,,1994,1.482,2126268.556,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+605,Relatos salvajes,2014,122,Comedy, Drama, Thriller,8.1,77,DamiÃ¡n Szifron,177059,3107072,,,2014,2.367,1312662.442,FALSE,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+606,"Synecdoche, New York",2008,124,Drama,,,7.6,67,Charlie Kaufman,83158,3081925,,,2008,2.153,1431456.108,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+607,Hedwig and the Angry Inch,2001,95,Comedy, Drama, Music,7.7,85,John Cameron Mitchell,31957,3029081,,,2001,1.771,1710378.882,FALSE,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+608,Veer-Zaara,2004,192,Drama, Family, Musical,7.8,67,Yash Chopra,49050,2921738,,,2004,1.889,1546711.488,FALSE,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+610,La grande bellezza,2013,141,Drama,,,7.8,86,Paolo Sorrentino,81125,2852400,,,2013,2.33,1224206.009,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+612,Happiness,1998,134,Comedy, Drama,,7.7,81,Todd Solondz,66408,2807390,,,1998,1.63,1722325.153,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+613,Fa yeung nin wah,2000,98,Drama, Romance,,8.1,85,Kar-Wai Wong,124383,2734044,,,2000,1.722,1587714.286,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+614,Miracle on 34th Street,1947,96,Comedy, Drama, Family,7.9,88,George Seaton,41625,2650000,,,1947,0.223,11883408.07,FALSE,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+615,Serbuan maut 2: Berandal,2014,150,Action, Crime, Thriller,8,71,Gareth Evans,114316,2625803,,,2014,2.367,1109337.981,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+616,The Innocents,1961,100,Horror,,,7.8,88,Jack Clayton,27007,2616000,,,1961,0.299,8749163.88,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+618,Forushande,2016,124,Drama,,,7.8,85,Asghar Farhadi,51240,2402067,,,2016,2.4,1000861.25,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+619,Bom Yeoareum Gaeul Gyeoul Geurigo Bom,2003,103,Drama, Romance,,8,85,Ki-duk Kim,77520,2380788,,,2003,1.84,1293906.522,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+621,The Fall,2006,117,Adventure, Drama, Fantasy,7.9,64,Tarsem Singh,107290,2280348,,,2006,2.016,1131125,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+622,Touch of Evil,1958,95,Crime, Drama, Film-Noir,8,99,Orson Welles,98431,2237659,,,1958,0.289,7742764.706,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+623,Das weiÃŸe Band - Eine deutsche Kindergeschichte,2009,144,Drama, History, Mystery,7.8,82,Michael Haneke,68715,2222647,,,2009,2.145,1036199.068,FALSE,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+624,Once Were Warriors,1994,102,Crime, Drama,,7.9,77,Lee Tamahori,31590,2201126,,,1994,1.482,1485240.216,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+625,La vie d'AdÃ¨le,2013,180,Drama, Romance,,7.7,89,Abdellatif Kechiche,138741,2199675,,,2013,2.33,944066.5236,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+626,"Paris, Texas",1984,145,Drama,,,8.1,78,Wim Wenders,91188,2181987,,,1984,1.039,2100083.734,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+628,LÃ¥t den rÃ¤tte komma in,2008,114,Crime, Drama, Fantasy,7.9,82,Tomas Alfredson,205609,2122065,,,2008,2.153,985631.6767,FALSE,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+629,The Maltese Falcon,1941,100,Film-Noir, Mystery,,8,96,John Huston,148928,2108060,,,1941,0.147,14340544.22,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+630,Mar adentro,2014,126,Biography, Drama,,8,74,Alejandro AmenÃ¡bar,77554,2086345,,,2014,2.367,881430.0803,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+631,Un prophÃ¨te,2009,155,Crime, Drama,,7.9,90,Jacques Audiard,93560,2084637,,,2009,2.145,971858.7413,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+632,The Wizard of Oz,1939,102,Adventure, Family, Fantasy,8,92,Victor Fleming,371379,2076020,,,1939,0.139,14935395.68,FALSE,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+633,Night on Earth,1991,129,Comedy, Drama,,7.8,68,Jim Jarmusch,55362,2015810,,,1991,1.362,1480036.711,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+634,Ah-ga-ssi,2016,145,Drama, Romance, Thriller,8.1,84,Chan-wook Park,113649,2006788,,,2016,2.4,836161.6667,FALSE,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+635,Marriage Story,2019,137,Comedy, Drama, Romance,7.9,94,Noah Baumbach,246644,2000000,,,2019,2.557,782166.6015,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+636,La double vie de VÃ©ronique,1991,98,Drama, Fantasy, Music,7.8,86,Krzysztof Kieslowski,42376,1999955,,,1991,1.362,1468395.742,FALSE,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+637,Le locataire,1976,126,Drama, Thriller,,7.7,71,Roman Polanski,39889,1924733,,,1976,0.569,3382659.051,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+638,Delicatessen,1991,99,Comedy, Crime,,7.6,66,Marc Caro,80487,1794187,,,1991,1.362,1317317.915,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+639,Kal Ho Naa Ho,2003,186,Comedy, Drama, Musical,8,54,Nikkhil Advani,63460,1787378,,,2003,1.84,971401.087,FALSE,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+640,Naked,1993,132,Comedy, Drama,,7.8,84,Mike Leigh,34635,1769305,,,1993,1.445,1224432.526,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+642,CapharnaÃ¼m,2018,126,Drama,,,8.4,75,Nadine Labaki,62635,1661096,,,2018,2.511,661527.6782,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+643,Festen,1998,105,Drama,,,8,82,Thomas Vinterberg,78341,1647780,,,1998,1.63,1010907.975,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+644,Citizen Kane,1941,119,Drama, Mystery,,8.3,100,Orson Welles,403351,1585634,,,1941,0.147,10786625.85,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+645,Withnail & I,1987,107,Comedy, Drama,,7.7,84,Bruce Robinson,40396,1544889,,,1987,1.136,1359937.5,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+646,Dogville,2003,178,Crime, Drama,,8,60,Lars von Trier,137963,1530386,,,2003,1.84,831731.5217,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+647,Kaguyahime no monogatari,2013,137,Animation, Adventure, Drama,8,89,Isao Takahata,38746,1506975,,,2013,2.33,646770.3863,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+648,Okuribito,2008,130,Drama, Music,,8.1,68,YÃ´jirÃ´ Takita,48582,1498210,,,2008,2.153,695870.8778,FALSE,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+649,Donnie Darko,2001,113,Drama, Mystery, Sci-Fi,8,88,Richard Kelly,740086,1480006,,,2001,1.771,835689.441,FALSE,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+650,Trois couleurs: Blanc,1994,92,Comedy, Drama, Romance,7.6,88,Krzysztof Kieslowski,64390,1464625,,,1994,1.482,988275.9784,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+651,Down by Law,1986,107,Comedy, Crime, Drama,7.8,75,Jim Jarmusch,47834,1436000,,,1986,1.096,1310218.978,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+652,Kelly's Heroes,1970,144,Adventure, Comedy, War,7.6,50,Brian G. Hutton,45338,1378435,,,1970,0.388,3552667.526,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+653,Le Petit Prince,2015,108,Animation, Adventure, Drama,7.7,70,Mark Osborne,56720,1339152,,,2015,2.37,565043.038,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+654,Le passÃ©,2013,130,Drama, Mystery,,7.8,85,Asghar Farhadi,45002,1330596,,,2013,2.33,571071.2446,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+655,Trois couleurs: Bleu,1993,94,Drama, Music, Mystery,7.9,85,Krzysztof Kieslowski,89836,1324974,,,1993,1.445,916937.0242,FALSE,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+656,Metropolis,1927,153,Drama, Sci-Fi,,8.3,98,Fritz Lang,159992,1236166,,,1927,0.174,7104402.299,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+657,Monty Python and the Holy Grail,1975,91,Adventure, Comedy, Fantasy,8.2,91,Terry Gilliam,500875,1229197,,,1975,0.538,2284752.788,FALSE,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+658,Nueve reinas,2000,114,Crime, Drama, Thriller,7.9,80,FabiÃ¡n Bielinsky,49721,1221261,,,2000,1.722,709210.8014,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+659,"4 luni, 3 saptamÃ¢ni si 2 zile",2007,113,Drama,,,7.9,97,Cristian Mungiu,56625,1185783,,,2007,2.073,572013.0246,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+660,Kai po che!,2013,130,Drama, Sport,,7.7,40,Abhishek Kapoor,32628,1122527,,,2013,2.33,481771.2446,FALSE,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+661,Chak De! India,2007,153,Drama, Family, Sport,8.2,68,Shimit Amin,74129,1113541,,,2007,2.073,537164.0135,FALSE,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+662,Taegukgi hwinalrimyeo,2004,140,Action, Drama, War,8.1,64,Je-kyu Kang,37820,1111061,,,2004,1.889,588174.1662,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+664,Leviafan,2014,140,Crime, Drama,,7.6,92,Andrey Zvyagintsev,49397,1092800,,,2014,2.367,461681.4533,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+665,The Machinist,2004,101,Drama, Thriller,,7.7,61,Brad Anderson,358432,1082715,,,2004,1.889,573168.343,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+666,No Man's Land,2001,98,Comedy, Drama, War,7.9,84,Danis Tanovic,44618,1059830,,,2001,1.771,598435.9119,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+667,Joyeux NoÃ«l,2005,116,Drama, History, Music,7.7,70,Christian Carion,28003,1054361,,,2005,1.953,539867.3835,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+668,Dead Man,1995,121,Adventure, Drama, Fantasy,7.6,62,Jim Jarmusch,90442,1037847,,,1995,1.524,681001.9685,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+669,Casablanca,1942,102,Drama, Romance, War,8.5,100,Michael Curtiz,522093,1024560,,,1942,0.163,6285644.172,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+670,Short Term 12,2013,96,Drama,,,8,82,Destin Daniel Cretton,81770,1010414,,,2013,2.33,433654.0773,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+671,HÃ¦vnen,2010,118,Drama, Romance,,7.6,65,Susanne Bier,38491,1008098,,,2010,2.181,462218.2485,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+672,Cowboy Bebop: Tengoku no tobira,2001,115,Animation, Action, Crime,7.9,61,Shin'ichirÃ´ Watanabe,42897,1000045,,,2001,1.771,564678.1479,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+673,The Long Goodbye,1973,112,Comedy, Crime, Drama,7.6,87,Robert Altman,26337,959000,,,1973,0.444,2159909.91,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+674,Bacheha-Ye aseman,1997,89,Drama, Family, Sport,8.3,77,Majid Majidi,65341,933933,,,1997,1.605,581889.7196,FALSE,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+675,Papurika,2006,90,Animation, Drama, Fantasy,7.7,81,Satoshi Kon,71379,881302,,,2006,2.016,437153.7698,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+676,Control,2007,122,Biography, Drama, Music,7.7,78,Anton Corbijn,61609,871577,,,2007,2.073,420442.3541,FALSE,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+677,Song of the Sea,2014,93,Animation, Adventure, Drama,8.1,85,Tomm Moore,51679,857524,,,2014,2.367,362283.0587,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+678,Mustang,2015,97,Drama,,,7.6,83,Deniz Gamze ErgÃ¼ven,35785,845464,,,2015,2.37,356735.865,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+679,Omoide no MÃ¢nÃ®,2014,103,Animation, Drama, Family,7.7,72,James Simone,32798,765127,,,2014,2.367,323247.5708,FALSE,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0
+680,Auf der anderen Seite,2007,122,Drama,,,7.8,85,Fatih Akin,30827,741283,,,2007,2.073,357589.4838,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+681,Oldeuboi,2003,101,Action, Drama, Mystery,8.4,77,Chan-wook Park,515451,707481,,,2003,1.84,384500.5435,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+682,Mysterious Skin,2004,105,Drama,,,7.6,73,Gregg Araki,65939,697181,,,2004,1.889,369074.1133,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+684,Jagten,2012,115,Drama,,,8.3,77,Thomas Vinterberg,281623,687185,,,2012,2.296,299296.6028,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+685,The Secret of Kells,2009,71,Animation, Adventure, Family,7.6,81,Tomm Moore,31779,686383,,,2009,2.145,319992.0746,FALSE,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+686,The Night of the Hunter,1955,92,Crime, Drama, Film-Noir,8,99,Charles Laughton,81980,654000,,,1955,0.268,2440298.507,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+687,Chung Hing sam lam,1994,102,Comedy, Crime, Drama,8.1,77,Kar-Wai Wong,63122,600200,,,1994,1.482,404993.2524,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+688,Nelyubov,2017,127,Drama,,,7.6,86,Andrey Zvyagintsev,29765,566356,,,2017,2.451,231071.3994,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+689,Jeux d'enfants,2003,93,Comedy, Drama, Romance,7.6,45,Yann Samuell,67360,548707,,,2003,1.84,298210.3261,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+690,Madeo,2009,129,Crime, Drama, Mystery,7.8,79,Bong Joon Ho,52758,547292,,,2009,2.145,255147.7855,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+691,Il conformista,1970,113,Drama,,,8,100,Bernardo Bertolucci,27067,541940,,,1970,0.388,1396752.577,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+692,The African Queen,1951,105,Adventure, Drama, Romance,7.7,91,John Huston,71481,536118,,,1951,0.26,2061992.308,FALSE,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+693,KÃ´kaku KidÃ´tai,1995,83,Animation, Action, Crime,8,76,Mamoru Oshii,129231,515905,,,1995,1.524,338520.3412,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+694,Vozvrashchenie,2003,110,Drama,,,8,82,Andrey Zvyagintsev,42399,502028,,,2003,1.84,272841.3043,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+696,Omohide poro poro,1991,118,Animation, Drama, Romance,7.6,90,Isao Takahata,27071,453243,,,1991,1.362,332777.533,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+697,The Third Man,1949,104,Film-Noir, Mystery, Thriller,8.1,97,Carol Reed,158731,449191,,,1949,0.238,1887357.143,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+698,Under sandet,2015,100,Drama, History, War,7.8,75,Martin Zandvliet,35539,435266,,,2015,2.37,183656.5401,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+699,Efter brylluppet,2006,120,Drama,,,7.7,78,Susanne Bier,32001,412544,,,2006,2.016,204634.9206,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+700,Jojo Rabbit,2019,108,Comedy, Drama, War,7.9,58,Taika Waititi,297918,349555,,,2019,2.557,136705.1232,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+701,"Crna macka, beli macor",1998,127,Comedy, Crime, Romance,8.1,73,Emir Kusturica,50862,348660,,,1998,1.63,213901.8405,FALSE,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+702,God's Own Country,2017,104,Drama, Romance,,7.7,85,Francis Lee,25198,335609,,,2017,2.451,136927.3766,FALSE,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+703,This Is England,2006,101,Crime, Drama,,7.7,86,Shane Meadows,115576,327919,,,2006,2.016,162658.2341,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+705,Shichinin no samurai,1954,207,Action, Adventure, Drama,8.6,98,Akira Kurosawa,315744,269061,,,1954,0.269,1000226.766,FALSE,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+706,La leggenda del pianista sull'oceano,1998,169,Drama, Music, Romance,8.1,58,Giuseppe Tornatore,59020,259127,,,1998,1.63,158973.6196,FALSE,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+707,"I, Daniel Blake",2016,100,Drama,,,7.9,78,Ken Loach,53818,258168,,,2016,2.4,107570,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+708,Bin-jip,2004,88,Crime, Drama, Romance,8,72,Ki-duk Kim,50610,238507,,,2004,1.889,126260.9846,FALSE,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+709,The Shop Around the Corner,1940,99,Comedy, Drama, Romance,8.1,96,Ernst Lubitsch,28450,203300,,,1940,0.14,1452142.857,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+710,Le charme discret de la bourgeoisie,1972,102,Comedy,,,7.9,93,Luis BuÃ±uel,38737,198809,,,1972,0.418,475619.6172,FALSE,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+711,La planÃ¨te sauvage,1973,72,Animation, Sci-Fi,,7.8,73,RenÃ© Laloux,25229,193817,,,1973,0.444,436524.7748,FALSE,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+713,Lilja 4-ever,2002,109,Crime, Drama,,7.8,82,Lukas Moodysson,42673,181655,,,2002,1.799,100975.542,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+714,The Broken Circle Breakdown,2012,111,Drama, Music, Romance,7.7,70,Felix van Groeningen,39379,175058,,,2012,2.296,76244.77352,FALSE,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+715,Mou gaan dou,2002,101,Action, Crime, Drama,8,75,Andrew Lau,117857,169659,,,2002,1.799,94307.393,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+716,Kis Uykusu,2014,196,Drama,,,8.1,88,Nuri Bilge Ceylan,46547,165520,,,2014,2.367,69928.17913,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+717,Modern Times,1936,87,Comedy, Drama, Family,8.5,96,Charles Chaplin,217881,163245,,,1936,0.139,1174424.46,FALSE,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+718,Vampire Hunter D: Bloodlust,2000,103,Animation, Action, Fantasy,7.7,62,Yoshiaki Kawajiri,29210,151086,,,2000,1.722,87738.67596,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+719,Mandariinid,2013,87,Drama, War,,8.2,73,Zaza Urushadze,40382,144501,,,2013,2.33,62017.59657,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+720,Das Experiment,2001,120,Drama, Thriller,,7.7,60,Oliver Hirschbiegel,90842,141072,,,2001,1.771,79656.69113,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+721,Bir Zamanlar Anadolu'da,2011,157,Crime, Drama,,7.9,82,Nuri Bilge Ceylan,41995,138730,,,2011,2.249,61685.19342,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+722,TÃ´kyÃ´ goddofÃ¢zÃ¢zu,2003,90,Animation, Adventure, Comedy,7.8,73,Satoshi Kon,31658,128985,,,2003,1.84,70100.54348,FALSE,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+723,Ang-ma-reul bo-at-da,2010,144,Action, Crime, Drama,7.8,67,Jee-woon Kim,111252,128392,,,2010,2.181,58868.40899,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+724,Darbareye Elly,2009,119,Drama, Mystery,,8,87,Asghar Farhadi,45803,106662,,,2009,2.145,49725.87413,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+725,Tropa de Elite 2: O Inimigo Agora Ã© Outro,2010,115,Action, Crime, Drama,8,71,JosÃ© Padilha,79200,100119,,,2010,2.181,45905.08941,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+726,RashÃ´mon,1950,88,Crime, Drama, Mystery,8.2,98,Akira Kurosawa,152572,96568,,,1950,0.241,400697.0954,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+727,Night of the Living Dead,1968,96,Horror, Thriller,,7.9,89,George A. Romero,116557,89029,,,1968,0.348,255830.4598,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+728,La migliore offerta,2013,131,Crime, Drama, Mystery,7.8,49,Giuseppe Tornatore,108399,85433,,,2013,2.33,36666.52361,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+729,Beasts of No Nation,2015,137,Drama, War,,7.7,79,Cary Joji Fukunaga,73964,83861,,,2015,2.37,35384.38819,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+730,Detachment,2011,98,Drama,,,7.7,52,Tony Kaye,77071,71177,,,2011,2.249,31648.28813,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+731,Lagaan: Once Upon a Time in India,2001,224,Adventure, Drama, Musical,8.1,84,Ashutosh Gowariker,105036,70147,,,2001,1.771,39608.69565,FALSE,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+732,La montaÃ±a sagrada,1973,114,Adventure, Drama, Fantasy,7.9,76,Alejandro Jodorowsky,37183,61001,,,1973,0.444,137389.6396,FALSE,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+733,Du rififi chez les hommes,1955,118,Crime, Drama, Thriller,8.2,97,Jules Dassin,28810,57226,,,1955,0.268,213529.8507,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+734,La battaglia di Algeri,1966,121,Drama, War,,8.1,96,Gillo Pontecorvo,53089,55908,,,1966,0.325,172024.6154,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+735,The Grapes of Wrath,1940,129,Drama, History,,8,96,John Ford,85559,55000,,,1940,0.14,392857.1429,FALSE,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+736,Les yeux sans visage,1960,90,Drama, Horror,,7.7,90,Georges Franju,27620,52709,,,1960,0.296,178070.9459,FALSE,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+737,Bronenosets Potemkin,1925,75,Drama, History, Thriller,8,97,Sergei M. Eisenstein,53054,50970,,,1925,0.175,291257.1429,FALSE,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+738,8Â½,1963,138,Drama,,,8,91,Federico Fellini,108844,50690,,,1963,0.306,165653.5948,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+739,Boksuneun naui geot,2002,129,Crime, Drama, Thriller,7.6,56,Chan-wook Park,62659,45289,,,2002,1.799,25174.54141,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+740,The Boondock Saints,1999,108,Action, Crime, Thriller,7.8,44,Troy Duffy,227143,25812,,,1999,1.666,15493.39736,FALSE,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+741,City Lights,1931,87,Comedy, Drama, Romance,8.5,99,Charles Chaplin,167839,19181,,,1931,0.152,126190.7895,FALSE,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+742,Ondskan,2003,113,Drama,,,7.8,61,Mikael HÃ¥fstrÃ¶m,35682,15280,,,2003,1.84,8304.347826,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+743,Salinui chueok,2003,131,Crime, Drama, Mystery,8.1,82,Bong Joon Ho,139558,14131,,,2003,1.84,7679.891304,FALSE,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+745,All About Eve,1950,138,Drama,,,8.2,98,Joseph L. Mankiewicz,120539,10177,,,1950,0.241,42228.21577,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+746,Tropa de Elite,2007,115,Action, Crime, Drama,8,33,JosÃ© Padilha,98097,8060,,,2007,2.073,3888.084901,FALSE,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+747,Dead Man's Shoes,2004,90,Crime, Drama, Thriller,7.6,52,Shane Meadows,49728,6013,,,2004,1.889,3183.165696,FALSE,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+748,Mr. Nobody,2009,141,Drama, Fantasy, Romance,7.8,63,Jaco Van Dormael,216421,3600,,,2009,2.145,1678.321678,FALSE,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+749,Adams Ã¦bler,2005,94,Comedy, Crime, Drama,7.8,51,Anders Thomas Jensen,45717,1305,,,2005,1.953,668.202765,FALSE,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
